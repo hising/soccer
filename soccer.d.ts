@@ -10,6 +10,8 @@ type Player = {
 type Team = {
     name: string;
     code: string;
+    flag: string;
+    players: Player[];
 }
 
 type Group = {
@@ -44,7 +46,9 @@ type Match = {
     score: Score
     goalsHome: Goals[];
     goalsAway: Goals[];
-    group: Group
+    group: Group;
+    round: Round;
+    arena: Arena;
 }
 
 type ArenaLocation = {
