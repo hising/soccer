@@ -1,0 +1,102 @@
+{
+  "munich": {
+    "name": "München Fußball Arena",
+    "city": "München",
+    "country": "Germany",
+    "capacity": 75000,
+    "location": {
+      "lat": 48.218775,
+      "lng": 11.624527
+    }
+  },
+  "cologne": {
+    "name": "Köln Stadion",
+    "city": "Köln",
+    "country": "Germany",
+    "capacity": 50000,
+    "location": {
+      "lat": 50.933333,
+      "lng": 6.95
+    }
+  },
+  "stuttgart": {
+    "name": "Stuttgart Arena",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "capacity": 60000,
+    "location": {
+      "lat": 48.791945,
+      "lng": 9.215821
+    }
+  },
+  "frankfurt": {
+    "name": "Frankfurt Arena",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "capacity": 55000,
+    "location": {
+      "lat": 50.068635,
+      "lng": 8.645892
+    }
+  },
+  "berlin": {
+    "name": "Olympiastadion",
+    "city": "Berlin",
+    "country": "Germany",
+    "capacity": 75000,
+    "location": {
+      "lat": 52.514722,
+      "lng": 13.239444
+    }
+  },
+  "dortmund": {
+    "name": "BVB Stadion Dortmund",
+    "city": "Dortmund",
+    "country": "Germany",
+    "capacity": 65000,
+    "location": {
+      "lat": 51.492569,
+      "lng": 7.451842
+    }
+  },
+  "hamburg": {
+    "name": "Volksparkstadion",
+    "city": "Hamburg",
+    "country": "Germany",
+    "capacity": 60000,
+    "location": {
+      "lat": 53.589815,
+      "lng": 9.983675
+    }
+  },
+  "gelsenkirchen": {
+    "name": "Arena Auf Schalke",
+    "city": "Gelsenkirchen",
+    "country": "Germany",
+    "capacity": 62000,
+    "location": {
+      "lat": 51.554503,
+      "lng": 7.067589
+    }
+  },
+  "dusseldorf": {
+    "name": "Düsseldorf Arena",
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "capacity": 54000,
+    "location": {
+      "lat": 51.261176,
+      "lng": 6.733314
+    }
+  },
+  "leipzig": {
+    "name": "Leipzig Stadion",
+    "city": "Leipzig",
+    "country": "Germany",
+    "capacity": 50000,
+    "location": {
+      "lat": 51.347778,
+      "lng": 12.383333
+    }
+  }
+}
