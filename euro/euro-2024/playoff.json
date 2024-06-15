@@ -1,0 +1,193 @@
+{
+  "1/8": [
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-06-29",
+      "time": "18:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/8",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false
+    },
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-06-29",
+      "time": "21:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/8",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false
+    },
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-06-30",
+      "time": "18:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/8",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false
+    },
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-06-30",
+      "time": "21:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/8",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false
+    },
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-07-01",
+      "time": "18:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/8",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false
+    },
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-07-01",
+      "time": "21:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/8",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false
+    },
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-07-02",
+      "time": "18:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/8",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false
+    },
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-07-02",
+      "time": "21:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/8",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false
+    }
+  ],
+  "1/4": [
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-07-05",
+      "time": "18:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/4",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false
+    },
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-07-05",
+      "time": "21:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/4",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false
+    },
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-07-06",
+      "time": "18:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/4",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false
+    },
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-07-06",
+      "time": "21:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/4",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false
+    }
+  ],
+  "1/2": [
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-07-09",
+      "time": "21:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/2",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false,
+      "tvChannel": "channels.Tv4"
+    },
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-07-10",
+      "time": "21:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "1/2",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false,
+      "tvChannel": "channels.Svt"
+    }
+  ],
+  "final": [
+    {
+      "home": null,
+      "away": null,
+      "date": "2024-07-14",
+      "time": "21:00",
+      "awayGoals": 0,
+      "homeGoals": 0,
+      "round": "final",
+      "homePenalties": 0,
+      "awayPenalties": 0,
+      "overtime": false,
+      "tvChannel": "channels.Tv4"
+    }
+  ]
+}
