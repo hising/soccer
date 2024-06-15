@@ -1,0 +1,5026 @@
+{
+  "albania": [
+    {
+      "number": 1,
+      "name": "Etrit Berisha",
+      "position": "GK",
+      "caps": 81,
+      "goals": 0,
+      "club": "Empoli FC (ITA)"
+    },
+    {
+      "number": 12,
+      "name": "Elhan Kastrati",
+      "position": "GK",
+      "caps": 2,
+      "goals": 0,
+      "club": "AS Cittadella (ITA)"
+    },
+    {
+      "number": 23,
+      "name": "Thomas Strakosha",
+      "position": "GK",
+      "caps": 27,
+      "goals": 0,
+      "club": "Brentford F.C. (ENG)"
+    },
+    {
+      "number": 2,
+      "name": "Iván Balliu",
+      "position": "DF",
+      "caps": 13,
+      "goals": 0,
+      "club": "Rayo Vallecano (ESP)"
+    },
+    {
+      "number": 3,
+      "name": "Mario Mitaj",
+      "position": "DF",
+      "caps": 13,
+      "goals": 0,
+      "club": "FC Lokomotiv Moscow (RUS)"
+    },
+    {
+      "number": 4,
+      "name": "Elseid Hysaj",
+      "position": "DF",
+      "caps": 83,
+      "goals": 2,
+      "club": "SS Lazio (ITA)"
+    },
+    {
+      "number": 5,
+      "name": "Arlind Ajeti",
+      "position": "DF",
+      "caps": 25,
+      "goals": 1,
+      "club": "CFR Cluj (ROU)"
+    },
+    {
+      "number": 6,
+      "name": "Berat Djimsiti",
+      "position": "DF",
+      "caps": 57,
+      "goals": 1,
+      "club": "Atalanta BC (ITA)"
+    },
+    {
+      "number": 13,
+      "name": "Enea Mihaj",
+      "position": "DF",
+      "caps": 18,
+      "goals": 0,
+      "club": "F.C. Famalicão (POR)"
+    },
+    {
+      "number": 18,
+      "name": "Ardian Ismajli",
+      "position": "DF",
+      "caps": 37,
+      "goals": 2,
+      "club": "Empoli FC (ITA)"
+    },
+    {
+      "number": 24,
+      "name": "Marash Kumbulla",
+      "position": "DF",
+      "caps": 19,
+      "goals": 0,
+      "club": "US Sassuolo (ITA)"
+    },
+    {
+      "number": 25,
+      "name": "Naser Aliji",
+      "position": "DF",
+      "caps": 13,
+      "goals": 0,
+      "club": "FC Voluntari (ROU)"
+    },
+    {
+      "number": 8,
+      "name": "Klaus Gjasula",
+      "position": "MF",
+      "caps": 28,
+      "goals": 0,
+      "club": "SV Darmstadt 98 (GER)"
+    },
+    {
+      "number": 10,
+      "name": "Nedim Bajrami",
+      "position": "MF",
+      "caps": 22,
+      "goals": 3,
+      "club": "US Sassuolo Calcio (ITA)"
+    },
+    {
+      "number": 14,
+      "name": "Qazim Laçi",
+      "position": "MF",
+      "caps": 26,
+      "goals": 2,
+      "club": "AC Sparta Prague (CZE)"
+    },
+    {
+      "number": 16,
+      "name": "Medon Berisha",
+      "position": "MF",
+      "caps": 1,
+      "goals": 0,
+      "club": "U.S. Lecce (ITA)"
+    },
+    {
+      "number": 17,
+      "name": "Ernest Muçi",
+      "position": "MF",
+      "caps": 10,
+      "goals": 3,
+      "club": "Beşiktaş J.K. (TUR)"
+    },
+    {
+      "number": 20,
+      "name": "Ylber Ramadani",
+      "position": "MF",
+      "caps": 34,
+      "goals": 1,
+      "club": "US Lecce (ITA)"
+    },
+    {
+      "number": 21,
+      "name": "Kristjan Asllani",
+      "position": "MF",
+      "caps": 19,
+      "goals": 2,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 22,
+      "name": "Amir Abrashi",
+      "position": "MF",
+      "caps": 50,
+      "goals": 1,
+      "club": "Grasshopper Club Zürich (SUI)"
+    },
+    {
+      "number": 7,
+      "name": "Rey Manaj",
+      "position": "FW",
+      "caps": 33,
+      "goals": 7,
+      "club": "Sivasspor (TUR)"
+    },
+    {
+      "number": 9,
+      "name": "Jasir Asani",
+      "position": "FW",
+      "caps": 12,
+      "goals": 4,
+      "club": "Gwangju FC (KOR)"
+    },
+    {
+      "number": 11,
+      "name": "Armando Broja",
+      "position": "FW",
+      "caps": 20,
+      "goals": 5,
+      "club": "Fulham F.C. (ENG)"
+    },
+    {
+      "number": 15,
+      "name": "Taulant Seferi",
+      "position": "FW",
+      "caps": 18,
+      "goals": 3,
+      "club": "Baniyas Club (UAE)"
+    },
+    {
+      "number": 19,
+      "name": "Mirlind Daku",
+      "position": "FW",
+      "caps": 5,
+      "goals": 1,
+      "club": "FC Rubin Kazan (RUS)"
+    },
+    {
+      "number": 26,
+      "name": "Arbër Hoxha",
+      "position": "FW",
+      "caps": 3,
+      "goals": 0,
+      "club": "GNK Dinamo Zagreb (CRO)"
+    }
+  ],
+  "austria": [
+    {
+      "number": 1,
+      "name": "Heinz Lindner",
+      "position": "GK",
+      "caps": 36,
+      "goals": 0,
+      "club": "Royale Union Saint-Gilloise (BEL)"
+    },
+    {
+      "number": 12,
+      "name": "Niklas Hedl",
+      "position": "GK",
+      "caps": 1,
+      "goals": 0,
+      "club": "SK Rapid Wien (AUT)"
+    },
+    {
+      "number": 13,
+      "name": "Patrick Pentz",
+      "position": "GK",
+      "caps": 6,
+      "goals": 0,
+      "club": "Brøndby IF (DEN)"
+    },
+    {
+      "number": 2,
+      "name": "Maximilian Wöber",
+      "position": "DF",
+      "caps": 24,
+      "goals": 0,
+      "club": "Borussia Mönchengladbach (GER)"
+    },
+    {
+      "number": 3,
+      "name": "Gernot Trauner",
+      "position": "DF",
+      "caps": 10,
+      "goals": 1,
+      "club": "Feyenoord (NED)"
+    },
+    {
+      "number": 4,
+      "name": "Kevin Danso",
+      "position": "DF",
+      "caps": 19,
+      "goals": 0,
+      "club": "RC Lens (FRA)"
+    },
+    {
+      "number": 5,
+      "name": "Stefan Posch",
+      "position": "DF",
+      "caps": 31,
+      "goals": 1,
+      "club": "Bologna FC 1909 (ITA)"
+    },
+    {
+      "number": 14,
+      "name": "Leopold Querfeld",
+      "position": "DF",
+      "caps": 2,
+      "goals": 0,
+      "club": "SK Rapid Wien (AUT)"
+    },
+    {
+      "number": 15,
+      "name": "Philipp Lienhart",
+      "position": "DF",
+      "caps": 20,
+      "goals": 1,
+      "club": "SC Freiburg (GER)"
+    },
+    {
+      "number": 16,
+      "name": "Philipp Mwene",
+      "position": "DF",
+      "caps": 11,
+      "goals": 0,
+      "club": "1. FSV Mainz 05 (GER)"
+    },
+    {
+      "number": 21,
+      "name": "Flavius Daniliuc",
+      "position": "DF",
+      "caps": 2,
+      "goals": 0,
+      "club": "FC Red Bull Salzburg (AUT)"
+    },
+    {
+      "number": 6,
+      "name": "Nicolas Seiwald",
+      "position": "MF",
+      "caps": 23,
+      "goals": 0,
+      "club": "RB Leipzig (GER)"
+    },
+    {
+      "number": 8,
+      "name": "Alexander Prass",
+      "position": "MF",
+      "caps": 5,
+      "goals": 0,
+      "club": "SK Sturm Graz (AUT)"
+    },
+    {
+      "number": 9,
+      "name": "Marcel Sabitzer",
+      "position": "MF",
+      "caps": 78,
+      "goals": 17,
+      "club": "Borussia Dortmund (GER)"
+    },
+    {
+      "number": 10,
+      "name": "Florian Grillitsch",
+      "position": "MF",
+      "caps": 42,
+      "goals": 1,
+      "club": "TSG 1899 Hoffenheim (GER)"
+    },
+    {
+      "number": 17,
+      "name": "Florian Kainz",
+      "position": "MF",
+      "caps": 27,
+      "goals": 1,
+      "club": "1. FC Köln (GER)"
+    },
+    {
+      "number": 18,
+      "name": "Romano Schmid",
+      "position": "MF",
+      "caps": 10,
+      "goals": 0,
+      "club": "SV Werder Bremen (GER)"
+    },
+    {
+      "number": 19,
+      "name": "Christoph Baumgartner",
+      "position": "MF",
+      "caps": 37,
+      "goals": 14,
+      "club": "RB Leipzig (GER)"
+    },
+    {
+      "number": 20,
+      "name": "Konrad Laimer",
+      "position": "MF",
+      "caps": 35,
+      "goals": 4,
+      "club": "FC Bayern Munich (GER)"
+    },
+    {
+      "number": 22,
+      "name": "Matthias Seidl",
+      "position": "MF",
+      "caps": 3,
+      "goals": 0,
+      "club": "SK Rapid Wien (AUT)"
+    },
+    {
+      "number": 23,
+      "name": "Patrick Wimmer",
+      "position": "MF",
+      "caps": 11,
+      "goals": 1,
+      "club": "VfL Wolfsburg (GER)"
+    },
+    {
+      "number": 26,
+      "name": "Marco Grüll",
+      "position": "MF",
+      "caps": 5,
+      "goals": 0,
+      "club": "SK Rapid Wien (AUT)"
+    },
+    {
+      "number": 7,
+      "name": "Marko Arnautović",
+      "position": "FW",
+      "caps": 112,
+      "goals": 36,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 11,
+      "name": "Michael Gregoritsch",
+      "position": "FW",
+      "caps": 54,
+      "goals": 15,
+      "club": "SC Freiburg (GER)"
+    },
+    {
+      "number": 24,
+      "name": "Andreas Weimann",
+      "position": "FW",
+      "caps": 24,
+      "goals": 2,
+      "club": "West Bromwich Albion F.C. (ENG)"
+    },
+    {
+      "number": 25,
+      "name": "Maximilian Entrup",
+      "position": "FW",
+      "caps": 3,
+      "goals": 1,
+      "club": "TSV Hartberg (AUT)"
+    }
+  ],
+  "belgium": [
+    {
+      "number": 1,
+      "name": "Koen Casteels",
+      "position": "GK",
+      "caps": 9,
+      "goals": 0,
+      "club": "VfL Wolfsburg (GER)"
+    },
+    {
+      "number": 12,
+      "name": "Thomas Kaminski",
+      "position": "GK",
+      "caps": 1,
+      "goals": 0,
+      "club": "Luton Town F.C. (ENG)"
+    },
+    {
+      "number": 13,
+      "name": "Matz Sels",
+      "position": "GK",
+      "caps": 8,
+      "goals": 0,
+      "club": "Nottingham Forest F.C. (ENG)"
+    },
+    {
+      "number": 2,
+      "name": "Zeno Debast",
+      "position": "DF",
+      "caps": 7,
+      "goals": 0,
+      "club": "R.S.C. Anderlecht (BEL)"
+    },
+    {
+      "number": 3,
+      "name": "Arthur Theate",
+      "position": "DF",
+      "caps": 15,
+      "goals": 0,
+      "club": "Stade Rennais F.C. (FRA)"
+    },
+    {
+      "number": 4,
+      "name": "Wout Faes",
+      "position": "DF",
+      "caps": 14,
+      "goals": 0,
+      "club": "Leicester City F.C. (ENG)"
+    },
+    {
+      "number": 5,
+      "name": "Jan Vertonghen",
+      "position": "DF",
+      "caps": 154,
+      "goals": 10,
+      "club": "R.S.C. Anderlecht (BEL)"
+    },
+    {
+      "number": 6,
+      "name": "Axel Witsel",
+      "position": "DF",
+      "caps": 131,
+      "goals": 12,
+      "club": "Atlético Madrid (ESP)"
+    },
+    {
+      "number": 15,
+      "name": "Thomas Meunier",
+      "position": "DF",
+      "caps": 65,
+      "goals": 8,
+      "club": "Trabzonspor (TUR)"
+    },
+    {
+      "number": 21,
+      "name": "Timothy Castagne",
+      "position": "DF",
+      "caps": 42,
+      "goals": 2,
+      "club": "Fulham F.C. (ENG)"
+    },
+    {
+      "number": 25,
+      "name": "Maxim De Cuyper",
+      "position": "DF",
+      "caps": 1,
+      "goals": 0,
+      "club": "Club Brugge KV (BEL)"
+    },
+    {
+      "number": 7,
+      "name": "Kevin De Bruyne",
+      "position": "MF",
+      "caps": 100,
+      "goals": 27,
+      "club": "Manchester City F.C. (ENG)"
+    },
+    {
+      "number": 8,
+      "name": "Youri Tielemans",
+      "position": "MF",
+      "caps": 67,
+      "goals": 7,
+      "club": "Aston Villa F.C. (ENG)"
+    },
+    {
+      "number": 11,
+      "name": "Yannick Carrasco",
+      "position": "MF",
+      "caps": 73,
+      "goals": 11,
+      "club": "Al Shabab FC (Riyadh) (SAU)"
+    },
+    {
+      "number": 16,
+      "name": "Aster Vranckx",
+      "position": "MF",
+      "caps": 6,
+      "goals": 0,
+      "club": "VfL Wolfsburg (GER)"
+    },
+    {
+      "number": 18,
+      "name": "Orel Mangala",
+      "position": "MF",
+      "caps": 14,
+      "goals": 0,
+      "club": "Olympique Lyonnais (FRA)"
+    },
+    {
+      "number": 23,
+      "name": "Arthur Vermeeren",
+      "position": "MF",
+      "caps": 4,
+      "goals": 0,
+      "club": "Atlético Madrid (ESP)"
+    },
+    {
+      "number": 24,
+      "name": "Amadou Onana",
+      "position": "MF",
+      "caps": 12,
+      "goals": 0,
+      "club": "Everton F.C. (ENG)"
+    },
+    {
+      "number": 9,
+      "name": "Leandro Trossard",
+      "position": "FW",
+      "caps": 33,
+      "goals": 8,
+      "club": "Arsenal F.C. (ENG)"
+    },
+    {
+      "number": 10,
+      "name": "Romelu Lukaku",
+      "position": "FW",
+      "caps": 114,
+      "goals": 83,
+      "club": "AS Roma (ITA)"
+    },
+    {
+      "number": 14,
+      "name": "Dodi Lukebakio",
+      "position": "FW",
+      "caps": 15,
+      "goals": 2,
+      "club": "Sevilla FC (ESP)"
+    },
+    {
+      "number": 17,
+      "name": "Charles De Ketelaere",
+      "position": "FW",
+      "caps": 14,
+      "goals": 2,
+      "club": "Atalanta BC (ITA)"
+    },
+    {
+      "number": 19,
+      "name": "Johan Bakayoko",
+      "position": "FW",
+      "caps": 11,
+      "goals": 1,
+      "club": "PSV Eindhoven (NED)"
+    },
+    {
+      "number": 20,
+      "name": "Loïs Openda",
+      "position": "FW",
+      "caps": 17,
+      "goals": 2,
+      "club": "RB Leipzig (GER)"
+    },
+    {
+      "number": 22,
+      "name": "Jérémy Doku",
+      "position": "FW",
+      "caps": 21,
+      "goals": 2,
+      "club": "Manchester City F.C. (ENG)"
+    }
+  ],
+  "croatia": [
+    {
+      "number": 1,
+      "name": "Dominik Livaković",
+      "position": "GK",
+      "caps": 53,
+      "goals": 0,
+      "club": "Fenerbahçe S.K. (TUR)"
+    },
+    {
+      "number": 12,
+      "name": "Nediljko Labrović",
+      "position": "GK",
+      "caps": 1,
+      "goals": 0,
+      "club": "HNK Rijeka (CRO)"
+    },
+    {
+      "number": 23,
+      "name": "Ivica Ivušić",
+      "position": "GK",
+      "caps": 6,
+      "goals": 0,
+      "club": "Pafos FC (CYP)"
+    },
+    {
+      "number": 2,
+      "name": "Josip Stanišić",
+      "position": "DF",
+      "caps": 17,
+      "goals": 0,
+      "club": "Bayer 04 Leverkusen (GER)"
+    },
+    {
+      "number": 3,
+      "name": "Marin Pongračić",
+      "position": "DF",
+      "caps": 7,
+      "goals": 0,
+      "club": "US Lecce (ITA)"
+    },
+    {
+      "number": 4,
+      "name": "Joško Gvardiol",
+      "position": "DF",
+      "caps": 29,
+      "goals": 2,
+      "club": "Manchester City F.C. (ENG)"
+    },
+    {
+      "number": 5,
+      "name": "Martin Erlić",
+      "position": "DF",
+      "caps": 9,
+      "goals": 0,
+      "club": "US Sassuolo Calcio (ITA)"
+    },
+    {
+      "number": 6,
+      "name": "Josip Šutalo",
+      "position": "DF",
+      "caps": 13,
+      "goals": 0,
+      "club": "AFC Ajax (NED)"
+    },
+    {
+      "number": 19,
+      "name": "Borna Sosa",
+      "position": "DF",
+      "caps": 20,
+      "goals": 1,
+      "club": "AFC Ajax (NED)"
+    },
+    {
+      "number": 21,
+      "name": "Domagoj Vida",
+      "position": "DF",
+      "caps": 105,
+      "goals": 4,
+      "club": "AEK Athens F.C. (GRE)"
+    },
+    {
+      "number": 22,
+      "name": "Josip Juranović",
+      "position": "DF",
+      "caps": 37,
+      "goals": 0,
+      "club": "1. FC Union Berlin (GER)"
+    },
+    {
+      "number": 7,
+      "name": "Lovro Majer",
+      "position": "MF",
+      "caps": 30,
+      "goals": 8,
+      "club": "VfL Wolfsburg (GER)"
+    },
+    {
+      "number": 8,
+      "name": "Mateo Kovačić",
+      "position": "MF",
+      "caps": 100,
+      "goals": 5,
+      "club": "Manchester City F.C. (ENG)"
+    },
+    {
+      "number": 10,
+      "name": "Luka Modrić",
+      "position": "MF",
+      "caps": 174,
+      "goals": 24,
+      "club": "Real Madrid CF (ESP)"
+    },
+    {
+      "number": 11,
+      "name": "Marcelo Brozović",
+      "position": "MF",
+      "caps": 95,
+      "goals": 7,
+      "club": "Al Nassr FC (KSA)"
+    },
+    {
+      "number": 13,
+      "name": "Nikola Vlašić",
+      "position": "MF",
+      "caps": 55,
+      "goals": 8,
+      "club": "Torino FC (ITA)"
+    },
+    {
+      "number": 15,
+      "name": "Mario Pašalić",
+      "position": "MF",
+      "caps": 62,
+      "goals": 10,
+      "club": "Atalanta BC (ITA)"
+    },
+    {
+      "number": 18,
+      "name": "Luka Ivanušec",
+      "position": "MF",
+      "caps": 20,
+      "goals": 2,
+      "club": "Feyenoord (NED)"
+    },
+    {
+      "number": 25,
+      "name": "Luka Sučić",
+      "position": "MF",
+      "caps": 6,
+      "goals": 0,
+      "club": "FC Red Bull Salzburg (AUT)"
+    },
+    {
+      "number": 26,
+      "name": "Martin Baturina",
+      "position": "MF",
+      "caps": 3,
+      "goals": 0,
+      "club": "GNK Dinamo Zagreb (CRO)"
+    },
+    {
+      "number": 9,
+      "name": "Andrej Kramarić",
+      "position": "FW",
+      "caps": 92,
+      "goals": 28,
+      "club": "TSG 1899 Hoffenheim (GER)"
+    },
+    {
+      "number": 14,
+      "name": "Ivan Perišić",
+      "position": "FW",
+      "caps": 130,
+      "goals": 33,
+      "club": "HNK Hajduk Split (CRO)"
+    },
+    {
+      "number": 16,
+      "name": "Ante Budimir",
+      "position": "FW",
+      "caps": 20,
+      "goals": 2,
+      "club": "CA Osasuna (ESP)"
+    },
+    {
+      "number": 17,
+      "name": "Bruno Petković",
+      "position": "FW",
+      "caps": 37,
+      "goals": 11,
+      "club": "GNK Dinamo Zagreb (CRO)"
+    },
+    {
+      "number": 20,
+      "name": "Marko Pjaca",
+      "position": "FW",
+      "caps": 26,
+      "goals": 1,
+      "club": "HNK Rijeka (CRO)"
+    },
+    {
+      "number": 24,
+      "name": "Marco Pašalić",
+      "position": "FW",
+      "caps": 5,
+      "goals": 1,
+      "club": "HNK Rijeka (CRO)"
+    }
+  ],
+  "czech-republic": [
+    {
+      "number": 1,
+      "name": "Jindřich Staněk",
+      "position": "GK",
+      "caps": 9,
+      "goals": 0,
+      "club": "SK Slavia Prague (CZE)"
+    },
+    {
+      "number": 16,
+      "name": "Matěj Kovář",
+      "position": "GK",
+      "caps": 1,
+      "goals": 0,
+      "club": "Bayer 04 Leverkusen (GER)"
+    },
+    {
+      "number": 23,
+      "name": "Vítězslav Jaroš",
+      "position": "GK",
+      "caps": 0,
+      "goals": 0,
+      "club": "SK Sturm Graz (AUT)"
+    },
+    {
+      "number": 2,
+      "name": "David Zima",
+      "position": "DF",
+      "caps": 20,
+      "goals": 1,
+      "club": "SK Slavia Prague (CZE)"
+    },
+    {
+      "number": 3,
+      "name": "Tomáš Holeš",
+      "position": "DF",
+      "caps": 27,
+      "goals": 2,
+      "club": "SK Slavia Prague (CZE)"
+    },
+    {
+      "number": 4,
+      "name": "Robin Hranáč",
+      "position": "DF",
+      "caps": 1,
+      "goals": 0,
+      "club": "FC Viktoria Plzeň (CZE)"
+    },
+    {
+      "number": 5,
+      "name": "Vladimír Coufal",
+      "position": "DF",
+      "caps": 40,
+      "goals": 1,
+      "club": "West Ham United F.C. (ENG)"
+    },
+    {
+      "number": 6,
+      "name": "Martin Vitík",
+      "position": "DF",
+      "caps": 1,
+      "goals": 0,
+      "club": "AC Sparta Prague (CZE)"
+    },
+    {
+      "number": 12,
+      "name": "David Douděra",
+      "position": "DF",
+      "caps": 8,
+      "goals": 1,
+      "club": "SK Slavia Prague (CZE)"
+    },
+    {
+      "number": 15,
+      "name": "David Jurásek",
+      "position": "DF",
+      "caps": 7,
+      "goals": 0,
+      "club": "TSG 1899 Hoffenheim (GER)"
+    },
+    {
+      "number": 18,
+      "name": "Ladislav Krejčí",
+      "position": "DF",
+      "caps": 9,
+      "goals": 3,
+      "club": "AC Sparta Prague (CZE)"
+    },
+    {
+      "number": 24,
+      "name": "Tomáš Vlček",
+      "position": "DF",
+      "caps": 1,
+      "goals": 0,
+      "club": "SK Slavia Prague (CZE)"
+    },
+    {
+      "number": 7,
+      "name": "Antonín Barák",
+      "position": "MF",
+      "caps": 39,
+      "goals": 9,
+      "club": "ACF Fiorentina (ITA)"
+    },
+    {
+      "number": 8,
+      "name": "Michal Sadílek",
+      "position": "MF",
+      "caps": 23,
+      "goals": 1,
+      "club": "FC Twente (NED)"
+    },
+    {
+      "number": 14,
+      "name": "Lukáš Provod",
+      "position": "MF",
+      "caps": 18,
+      "goals": 2,
+      "club": "SK Slavia Prague (CZE)"
+    },
+    {
+      "number": 20,
+      "name": "Ondřej Lingr",
+      "position": "MF",
+      "caps": 13,
+      "goals": 0,
+      "club": "Feyenoord (NED)"
+    },
+    {
+      "number": 21,
+      "name": "Lukáš Červ",
+      "position": "MF",
+      "caps": 0,
+      "goals": 0,
+      "club": "FC Viktoria Plzeň (CZE)"
+    },
+    {
+      "number": 22,
+      "name": "Tomáš Souček",
+      "position": "MF",
+      "caps": 68,
+      "goals": 12,
+      "club": "West Ham United F.C. (ENG)"
+    },
+    {
+      "number": 25,
+      "name": "Pavel Šulc",
+      "position": "MF",
+      "caps": 1,
+      "goals": 0,
+      "club": "FC Viktoria Plzeň (CZE)"
+    },
+    {
+      "number": 26,
+      "name": "Matěj Jurásek",
+      "position": "MF",
+      "caps": 1,
+      "goals": 0,
+      "club": "SK Slavia Prague (CZE)"
+    },
+    {
+      "number": 9,
+      "name": "Adam Hložek",
+      "position": "FW",
+      "caps": 31,
+      "goals": 2,
+      "club": "Bayer 04 Leverkusen (GER)"
+    },
+    {
+      "number": 10,
+      "name": "Patrik Schick",
+      "position": "FW",
+      "caps": 37,
+      "goals": 18,
+      "club": "Bayer 04 Leverkusen (GER)"
+    },
+    {
+      "number": 11,
+      "name": "Jan Kuchta",
+      "position": "FW",
+      "caps": 20,
+      "goals": 2,
+      "club": "AC Sparta Prague (CZE)"
+    },
+    {
+      "number": 13,
+      "name": "Mojmír Chytil",
+      "position": "FW",
+      "caps": 12,
+      "goals": 4,
+      "club": "SK Slavia Prague (CZE)"
+    },
+    {
+      "number": 17,
+      "name": "Václav Černý",
+      "position": "FW",
+      "caps": 15,
+      "goals": 5,
+      "club": "VfL Wolfsburg (GER)"
+    },
+    {
+      "number": 19,
+      "name": "Tomáš Chorý",
+      "position": "FW",
+      "caps": 3,
+      "goals": 2,
+      "club": "FC Viktoria Plzeň (CZE)"
+    }
+  ],
+  "denmark": [
+    {
+      "number": 1,
+      "name": "Kasper Schmeichel",
+      "position": "GK",
+      "caps": 100,
+      "goals": 0,
+      "club": "R.S.C. Anderlecht (BEL)"
+    },
+    {
+      "number": 16,
+      "name": "Mads Hermansen",
+      "position": "GK",
+      "caps": 0,
+      "goals": 0,
+      "club": "Leicester City F.C. (ENG)"
+    },
+    {
+      "number": 22,
+      "name": "Frederik Rønnow",
+      "position": "GK",
+      "caps": 10,
+      "goals": 0,
+      "club": "1. FC Union Berlin (GER)"
+    },
+    {
+      "number": 2,
+      "name": "Joachim Andersen",
+      "position": "DF",
+      "caps": 31,
+      "goals": 0,
+      "club": "Crystal Palace F.C. (ENG)"
+    },
+    {
+      "number": 3,
+      "name": "Jannik Vestergaard",
+      "position": "DF",
+      "caps": 40,
+      "goals": 2,
+      "club": "Leicester City F.C. (ENG)"
+    },
+    {
+      "number": 4,
+      "name": "Simon Kjær",
+      "position": "DF",
+      "caps": 131,
+      "goals": 5,
+      "club": "AC Milan (ITA)"
+    },
+    {
+      "number": 5,
+      "name": "Joakim Mæhle",
+      "position": "DF",
+      "caps": 44,
+      "goals": 11,
+      "club": "VfL Wolfsburg (GER)"
+    },
+    {
+      "number": 6,
+      "name": "Andreas Christensen",
+      "position": "DF",
+      "caps": 68,
+      "goals": 3,
+      "club": "FC Barcelona (ESP)"
+    },
+    {
+      "number": 13,
+      "name": "Mathias Zanka Jørgensen",
+      "position": "DF",
+      "caps": 37,
+      "goals": 2,
+      "club": "Brentford F.C. (ENG)"
+    },
+    {
+      "number": 17,
+      "name": "Victor Kristiansen",
+      "position": "DF",
+      "caps": 7,
+      "goals": 0,
+      "club": "Bologna FC 1909 (ITA)"
+    },
+    {
+      "number": 18,
+      "name": "Alexander Bah",
+      "position": "DF",
+      "caps": 10,
+      "goals": 1,
+      "club": "S.L. Benfica (POR)"
+    },
+    {
+      "number": 25,
+      "name": "Rasmus Kristensen",
+      "position": "DF",
+      "caps": 21,
+      "goals": 0,
+      "club": "AS Roma (ITA)"
+    },
+    {
+      "number": 7,
+      "name": "Mathias Jensen",
+      "position": "MF",
+      "caps": 30,
+      "goals": 1,
+      "club": "Brentford F.C. (ENG)"
+    },
+    {
+      "number": 8,
+      "name": "Thomas Delaney",
+      "position": "MF",
+      "caps": 77,
+      "goals": 8,
+      "club": "R.S.C. Anderlecht (BEL)"
+    },
+    {
+      "number": 10,
+      "name": "Christian Eriksen",
+      "position": "MF",
+      "caps": 129,
+      "goals": 41,
+      "club": "Manchester United F.C. (ENG)"
+    },
+    {
+      "number": 11,
+      "name": "Andreas Skov Olsen",
+      "position": "MF",
+      "caps": 29,
+      "goals": 8,
+      "club": "Club Brugge KV (BEL)"
+    },
+    {
+      "number": 14,
+      "name": "Mikkel Damsgaard",
+      "position": "MF",
+      "caps": 26,
+      "goals": 4,
+      "club": "Brentford F.C. (ENG)"
+    },
+    {
+      "number": 15,
+      "name": "Christian Nørgaard",
+      "position": "MF",
+      "caps": 25,
+      "goals": 1,
+      "club": "Brentford F.C. (ENG)"
+    },
+    {
+      "number": 21,
+      "name": "Morten Hjulmand",
+      "position": "MF",
+      "caps": 6,
+      "goals": 0,
+      "club": "Sporting CP (POR)"
+    },
+    {
+      "number": 23,
+      "name": "Pierre-Emile Højbjerg",
+      "position": "MF",
+      "caps": 76,
+      "goals": 9,
+      "club": "Tottenham Hotspur F.C. (ENG)"
+    },
+    {
+      "number": 9,
+      "name": "Rasmus Højlund",
+      "position": "FW",
+      "caps": 13,
+      "goals": 7,
+      "club": "Manchester United F.C. (ENG)"
+    },
+    {
+      "number": 12,
+      "name": "Kasper Dolberg",
+      "position": "FW",
+      "caps": 46,
+      "goals": 11,
+      "club": "R.S.C. Anderlecht (BEL)"
+    },
+    {
+      "number": 19,
+      "name": "Jonas Wind",
+      "position": "FW",
+      "caps": 27,
+      "goals": 8,
+      "club": "VfL Wolfsburg (GER)"
+    },
+    {
+      "number": 20,
+      "name": "Yussuf Poulsen",
+      "position": "FW",
+      "caps": 78,
+      "goals": 12,
+      "club": "RB Leipzig (GER)"
+    },
+    {
+      "number": 24,
+      "name": "Anders Dreyer",
+      "position": "FW",
+      "caps": 3,
+      "goals": 0,
+      "club": "R.S.C. Anderlecht (BEL)"
+    },
+    {
+      "number": 26,
+      "name": "Jacob Bruun Larsen",
+      "position": "FW",
+      "caps": 6,
+      "goals": 1,
+      "club": "Burnley F.C. (ENG)"
+    }
+  ],
+  "england": [
+    {
+      "number": 1,
+      "name": "Jordan Pickford",
+      "position": "GK",
+      "caps": 61,
+      "goals": 0,
+      "club": "Everton F.C. (ENG)"
+    },
+    {
+      "number": 13,
+      "name": "Aaron Ramsdale",
+      "position": "GK",
+      "caps": 5,
+      "goals": 0,
+      "club": "Arsenal F.C. (ENG)"
+    },
+    {
+      "number": 25,
+      "name": "Dean Henderson",
+      "position": "GK",
+      "caps": 1,
+      "goals": 0,
+      "club": "Crystal Palace F.C. (ENG)"
+    },
+    {
+      "number": 2,
+      "name": "Kyle Walker",
+      "position": "DF",
+      "caps": 83,
+      "goals": 1,
+      "club": "Manchester City F.C. (ENG)"
+    },
+    {
+      "number": 3,
+      "name": "Luke Shaw",
+      "position": "DF",
+      "caps": 31,
+      "goals": 3,
+      "club": "Manchester United F.C. (ENG)"
+    },
+    {
+      "number": 5,
+      "name": "John Stones",
+      "position": "DF",
+      "caps": 72,
+      "goals": 3,
+      "club": "Manchester City F.C. (ENG)"
+    },
+    {
+      "number": 6,
+      "name": "Marc Guéhi",
+      "position": "DF",
+      "caps": 11,
+      "goals": 0,
+      "club": "Crystal Palace F.C. (ENG)"
+    },
+    {
+      "number": 12,
+      "name": "Kieran Trippier",
+      "position": "DF",
+      "caps": 48,
+      "goals": 1,
+      "club": "Newcastle United F.C. (ENG)"
+    },
+    {
+      "number": 15,
+      "name": "Lewis Dunk",
+      "position": "DF",
+      "caps": 6,
+      "goals": 0,
+      "club": "Brighton & Hove Albion F.C. (ENG)"
+    },
+    {
+      "number": 22,
+      "name": "Joe Gomez",
+      "position": "DF",
+      "caps": 15,
+      "goals": 0,
+      "club": "Liverpool F.C. (ENG)"
+    },
+    {
+      "number": 24,
+      "name": "Ezri Konsa",
+      "position": "DF",
+      "caps": 4,
+      "goals": 0,
+      "club": "Aston Villa F.C. (ENG)"
+    },
+    {
+      "number": 4,
+      "name": "Declan Rice",
+      "position": "MF",
+      "caps": 51,
+      "goals": 3,
+      "club": "Arsenal F.C. (ENG)"
+    },
+    {
+      "number": 8,
+      "name": "Conor Gallagher",
+      "position": "MF",
+      "caps": 13,
+      "goals": 0,
+      "club": "Chelsea F.C. (ENG)"
+    },
+    {
+      "number": 10,
+      "name": "Jude Bellingham",
+      "position": "MF",
+      "caps": 29,
+      "goals": 3,
+      "club": "Real Madrid CF (ESP)"
+    },
+    {
+      "number": 14,
+      "name": "Trent Alexander-Arnold",
+      "position": "MF",
+      "caps": 25,
+      "goals": 3,
+      "club": "Liverpool F.C. (ENG)"
+    },
+    {
+      "number": 16,
+      "name": "Kobbie Mainoo",
+      "position": "MF",
+      "caps": 3,
+      "goals": 0,
+      "club": "Manchester United F.C. (ENG)"
+    },
+    {
+      "number": 20,
+      "name": "Eberechi Eze",
+      "position": "MF",
+      "caps": 4,
+      "goals": 0,
+      "club": "Crystal Palace F.C. (ENG)"
+    },
+    {
+      "number": 23,
+      "name": "Cole Palmer",
+      "position": "MF",
+      "caps": 4,
+      "goals": 1,
+      "club": "Chelsea F.C. (ENG)"
+    },
+    {
+      "number": 26,
+      "name": "Adam Wharton",
+      "position": "MF",
+      "caps": 1,
+      "goals": 0,
+      "club": "Crystal Palace F.C. (ENG)"
+    },
+    {
+      "number": 7,
+      "name": "Bukayo Saka",
+      "position": "FW",
+      "caps": 33,
+      "goals": 11,
+      "club": "Arsenal F.C. (ENG)"
+    },
+    {
+      "number": 9,
+      "name": "Harry Kane",
+      "position": "FW",
+      "caps": 91,
+      "goals": 63,
+      "club": "FC Bayern Munich (GER)"
+    },
+    {
+      "number": 11,
+      "name": "Phil Foden",
+      "position": "FW",
+      "caps": 34,
+      "goals": 4,
+      "club": "Manchester City F.C. (ENG)"
+    },
+    {
+      "number": 17,
+      "name": "Ivan Toney",
+      "position": "FW",
+      "caps": 3,
+      "goals": 1,
+      "club": "Brentford F.C. (ENG)"
+    },
+    {
+      "number": 18,
+      "name": "Jarrod Bowen",
+      "position": "FW",
+      "caps": 8,
+      "goals": 0,
+      "club": "West Ham United F.C. (ENG)"
+    },
+    {
+      "number": 19,
+      "name": "Ollie Watkins",
+      "position": "FW",
+      "caps": 12,
+      "goals": 3,
+      "club": "Aston Villa F.C. (ENG)"
+    },
+    {
+      "number": 21,
+      "name": "Anthony Gordon",
+      "position": "FW",
+      "caps": 3,
+      "goals": 0,
+      "club": "Newcastle United F.C. (ENG)"
+    }
+  ],
+  "france": [
+    {
+      "number": 1,
+      "name": "Brice Samba",
+      "position": "GK",
+      "caps": 3,
+      "goals": 0,
+      "club": "RC Lens (FRA)"
+    },
+    {
+      "number": 16,
+      "name": "Mike Maignan",
+      "position": "GK",
+      "caps": 15,
+      "goals": 0,
+      "club": "AC Milan (ITA)"
+    },
+    {
+      "number": 23,
+      "name": "Alphonse Areola",
+      "position": "GK",
+      "caps": 5,
+      "goals": 0,
+      "club": "West Ham United F.C. (ENG)"
+    },
+    {
+      "number": 2,
+      "name": "Benjamin Pavard",
+      "position": "DF",
+      "caps": 54,
+      "goals": 5,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 3,
+      "name": "Ferland Mendy",
+      "position": "DF",
+      "caps": 9,
+      "goals": 0,
+      "club": "Real Madrid CF (ESP)"
+    },
+    {
+      "number": 4,
+      "name": "Dayot Upamecano",
+      "position": "DF",
+      "caps": 19,
+      "goals": 2,
+      "club": "FC Bayern Munich (GER)"
+    },
+    {
+      "number": 5,
+      "name": "Jules Koundé",
+      "position": "DF",
+      "caps": 27,
+      "goals": 0,
+      "club": "FC Barcelona (ESP)"
+    },
+    {
+      "number": 17,
+      "name": "William Saliba",
+      "position": "DF",
+      "caps": 14,
+      "goals": 0,
+      "club": "Arsenal F.C. (ENG)"
+    },
+    {
+      "number": 21,
+      "name": "Jonathan Clauss",
+      "position": "DF",
+      "caps": 13,
+      "goals": 2,
+      "club": "Olympique de Marseille (FRA)"
+    },
+    {
+      "number": 22,
+      "name": "Théo Hernandez",
+      "position": "DF",
+      "caps": 26,
+      "goals": 2,
+      "club": "AC Milan (ITA)"
+    },
+    {
+      "number": 24,
+      "name": "Ibrahima Konaté",
+      "position": "DF",
+      "caps": 15,
+      "goals": 0,
+      "club": "Liverpool F.C. (ENG)"
+    },
+    {
+      "number": 6,
+      "name": "Eduardo Camavinga",
+      "position": "MF",
+      "caps": 16,
+      "goals": 1,
+      "club": "Real Madrid CF (ESP)"
+    },
+    {
+      "number": 8,
+      "name": "Aurélien Tchouaméni",
+      "position": "MF",
+      "caps": 31,
+      "goals": 3,
+      "club": "Real Madrid CF (ESP)"
+    },
+    {
+      "number": 13,
+      "name": "N'Golo Kanté",
+      "position": "MF",
+      "caps": 54,
+      "goals": 2,
+      "club": "Al-Ittihad Club (KSA)"
+    },
+    {
+      "number": 14,
+      "name": "Adrien Rabiot",
+      "position": "MF",
+      "caps": 43,
+      "goals": 4,
+      "club": "Juventus FC (ITA)"
+    },
+    {
+      "number": 18,
+      "name": "Warren Zaïre-Emery",
+      "position": "MF",
+      "caps": 3,
+      "goals": 1,
+      "club": "Paris Saint-Germain F.C. (FRA)"
+    },
+    {
+      "number": 19,
+      "name": "Youssouf Fofana",
+      "position": "MF",
+      "caps": 18,
+      "goals": 3,
+      "club": "AS Monaco FC (FRA)"
+    },
+    {
+      "number": 7,
+      "name": "Antoine Griezmann",
+      "position": "FW",
+      "caps": 128,
+      "goals": 44,
+      "club": "Atlético Madrid (ESP)"
+    },
+    {
+      "number": 9,
+      "name": "Olivier Giroud",
+      "position": "FW",
+      "caps": 132,
+      "goals": 57,
+      "club": "AC Milan (ITA)"
+    },
+    {
+      "number": 10,
+      "name": "Kylian Mbappé",
+      "position": "FW",
+      "caps": 78,
+      "goals": 47,
+      "club": "Paris Saint-Germain F.C. (FRA)"
+    },
+    {
+      "number": 11,
+      "name": "Ousmane Dembélé",
+      "position": "FW",
+      "caps": 43,
+      "goals": 5,
+      "club": "Paris Saint-Germain F.C. (FRA)"
+    },
+    {
+      "number": 12,
+      "name": "Randal Kolo Muani",
+      "position": "FW",
+      "caps": 16,
+      "goals": 4,
+      "club": "Paris Saint-Germain F.C. (FRA)"
+    },
+    {
+      "number": 15,
+      "name": "Marcus Thuram",
+      "position": "FW",
+      "caps": 19,
+      "goals": 2,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 20,
+      "name": "Kingsley Coman",
+      "position": "FW",
+      "caps": 55,
+      "goals": 8,
+      "club": "FC Bayern Munich (GER)"
+    },
+    {
+      "number": 25,
+      "name": "Bradley Barcola",
+      "position": "FW",
+      "caps": 1,
+      "goals": 0,
+      "club": "Paris Saint-Germain F.C. (FRA)"
+    }
+  ],
+  "georgia": [
+    {
+      "number": 1,
+      "name": "Giorgi Loria",
+      "position": "GK",
+      "caps": 78,
+      "goals": 0,
+      "club": "FC Dinamo Tbilisi (GEO)"
+    },
+    {
+      "number": 12,
+      "name": "Giorgi Mamardashvili",
+      "position": "GK",
+      "caps": 16,
+      "goals": 0,
+      "club": "Valencia CF (ESP)"
+    },
+    {
+      "number": 23,
+      "name": "Luka Gugeshashvili",
+      "position": "GK",
+      "caps": 1,
+      "goals": 0,
+      "club": "Qarabağ FK (AZE)"
+    },
+    {
+      "number": 2,
+      "name": "Otar Kakabadze",
+      "position": "DF",
+      "caps": 60,
+      "goals": 0,
+      "club": "MKS Cracovia (POL)"
+    },
+    {
+      "number": 3,
+      "name": "Lasha Dvali",
+      "position": "DF",
+      "caps": 31,
+      "goals": 1,
+      "club": "APOEL FC (CYP)"
+    },
+    {
+      "number": 4,
+      "name": "Guram Kashia",
+      "position": "DF",
+      "caps": 112,
+      "goals": 3,
+      "club": "ŠK Slovan Bratislava (SVK)"
+    },
+    {
+      "number": 5,
+      "name": "Solomon Kvirkvelia",
+      "position": "DF",
+      "caps": 58,
+      "goals": 0,
+      "club": "Al-Okhdood Club (KSA)"
+    },
+    {
+      "number": 13,
+      "name": "Giorgi Gocholeishvili",
+      "position": "DF",
+      "caps": 8,
+      "goals": 0,
+      "club": "FC Shakhtar Donetsk (UKR)"
+    },
+    {
+      "number": 14,
+      "name": "Luka Lochoshvili",
+      "position": "DF",
+      "caps": 10,
+      "goals": 1,
+      "club": "U.S. Cremonese (ITA)"
+    },
+    {
+      "number": 15,
+      "name": "Giorgi Gvelesiani",
+      "position": "DF",
+      "caps": 0,
+      "goals": 0,
+      "club": "Persepolis F.C. (IRI)"
+    },
+    {
+      "number": 24,
+      "name": "Jemal Tabidze",
+      "position": "DF",
+      "caps": 15,
+      "goals": 1,
+      "club": "Panetolikos F.C. (GRE)"
+    },
+    {
+      "number": 6,
+      "name": "Giorgi Kochorashvili",
+      "position": "MF",
+      "caps": 7,
+      "goals": 0,
+      "club": "Levante UD (ESP)"
+    },
+    {
+      "number": 9,
+      "name": "Zuriko Davitashvili",
+      "position": "MF",
+      "caps": 34,
+      "goals": 6,
+      "club": "FC Girondins de Bordeaux (FRA)"
+    },
+    {
+      "number": 10,
+      "name": "Giorgi Chakvetadze",
+      "position": "MF",
+      "caps": 24,
+      "goals": 8,
+      "club": "Watford F.C. (ENG)"
+    },
+    {
+      "number": 16,
+      "name": "Nika Kvekveskiri",
+      "position": "MF",
+      "caps": 59,
+      "goals": 0,
+      "club": "Lech Poznań (POL)"
+    },
+    {
+      "number": 17,
+      "name": "Otar Kiteishvili",
+      "position": "MF",
+      "caps": 36,
+      "goals": 2,
+      "club": "SK Sturm Graz (AUT)"
+    },
+    {
+      "number": 18,
+      "name": "Saba Lobzhanidze",
+      "position": "MF",
+      "caps": 36,
+      "goals": 3,
+      "club": "Atlanta United FC (USA)"
+    },
+    {
+      "number": 19,
+      "name": "Levan Shengelia",
+      "position": "MF",
+      "caps": 16,
+      "goals": 1,
+      "club": "Panetolikos F.C. (GRE)"
+    },
+    {
+      "number": 20,
+      "name": "Gabriel Sigua",
+      "position": "MF",
+      "caps": 2,
+      "goals": 0,
+      "club": "FC Basel (SUI)"
+    },
+    {
+      "number": 21,
+      "name": "Giorgi Tsitaishvili",
+      "position": "MF",
+      "caps": 16,
+      "goals": 1,
+      "club": "FC Dinamo Batumi (GEO)"
+    },
+    {
+      "number": 25,
+      "name": "Sandro Altunashvili",
+      "position": "MF",
+      "caps": 4,
+      "goals": 0,
+      "club": "Wolfsberger AC (AUT)"
+    },
+    {
+      "number": 26,
+      "name": "Anzor Mekvabishvili",
+      "position": "MF",
+      "caps": 13,
+      "goals": 0,
+      "club": "CS Universitatea Craiova (ROU)"
+    },
+    {
+      "number": 7,
+      "name": "Khvicha Kvaratskhelia",
+      "position": "FW",
+      "caps": 29,
+      "goals": 15,
+      "club": "SSC Napoli (ITA)"
+    },
+    {
+      "number": 8,
+      "name": "Budu Zivzivadze",
+      "position": "FW",
+      "caps": 25,
+      "goals": 7,
+      "club": "Karlsruher SC (GER)"
+    },
+    {
+      "number": 11,
+      "name": "Giorgi Kvilitaia",
+      "position": "FW",
+      "caps": 37,
+      "goals": 6,
+      "club": "APOEL FC (CYP)"
+    },
+    {
+      "number": 22,
+      "name": "Georges Mikautadze",
+      "position": "FW",
+      "caps": 24,
+      "goals": 9,
+      "club": "FC Metz (FRA)"
+    }
+  ],
+  "germany": [
+    {
+      "number": 1,
+      "name": "Manuel Neuer",
+      "position": "GK",
+      "caps": 118,
+      "goals": 0,
+      "club": "FC Bayern Munich (GER)"
+    },
+    {
+      "number": 12,
+      "name": "Oliver Baumann",
+      "position": "GK",
+      "caps": 0,
+      "goals": 0,
+      "club": "TSG 1899 Hoffenheim (GER)"
+    },
+    {
+      "number": 22,
+      "name": "Marc-André ter Stegen",
+      "position": "GK",
+      "caps": 40,
+      "goals": 0,
+      "club": "FC Barcelona (ESP)"
+    },
+    {
+      "number": 2,
+      "name": "Antonio Rüdiger",
+      "position": "DF",
+      "caps": 68,
+      "goals": 3,
+      "club": "Real Madrid CF (ESP)"
+    },
+    {
+      "number": 3,
+      "name": "David Raum",
+      "position": "DF",
+      "caps": 20,
+      "goals": 0,
+      "club": "RB Leipzig (GER)"
+    },
+    {
+      "number": 4,
+      "name": "Jonathan Tah",
+      "position": "DF",
+      "caps": 24,
+      "goals": 0,
+      "club": "Bayer 04 Leverkusen (GER)"
+    },
+    {
+      "number": 6,
+      "name": "Joshua Kimmich",
+      "position": "DF",
+      "caps": 85,
+      "goals": 6,
+      "club": "FC Bayern Munich (GER)"
+    },
+    {
+      "number": 15,
+      "name": "Nico Schlotterbeck",
+      "position": "DF",
+      "caps": 11,
+      "goals": 0,
+      "club": "Borussia Dortmund (GER)"
+    },
+    {
+      "number": 16,
+      "name": "Waldemar Anton",
+      "position": "DF",
+      "caps": 2,
+      "goals": 0,
+      "club": "VfB Stuttgart (GER)"
+    },
+    {
+      "number": 18,
+      "name": "Maximilian Mittelstädt",
+      "position": "DF",
+      "caps": 3,
+      "goals": 1,
+      "club": "VfB Stuttgart (GER)"
+    },
+    {
+      "number": 20,
+      "name": "Benjamin Henrichs",
+      "position": "DF",
+      "caps": 14,
+      "goals": 0,
+      "club": "RB Leipzig (GER)"
+    },
+    {
+      "number": 24,
+      "name": "Robin Koch",
+      "position": "DF",
+      "caps": 9,
+      "goals": 0,
+      "club": "Eintracht Frankfurt (GER)"
+    },
+    {
+      "number": 5,
+      "name": "Pascal Groß",
+      "position": "MF",
+      "caps": 6,
+      "goals": 0,
+      "club": "Brighton & Hove Albion F.C. (ENG)"
+    },
+    {
+      "number": 8,
+      "name": "Toni Kroos",
+      "position": "MF",
+      "caps": 108,
+      "goals": 17,
+      "club": "Real Madrid CF (ESP)"
+    },
+    {
+      "number": 10,
+      "name": "Jamal Musiala",
+      "position": "MF",
+      "caps": 28,
+      "goals": 2,
+      "club": "FC Bayern Munich (GER)"
+    },
+    {
+      "number": 11,
+      "name": "Chris Führich",
+      "position": "MF",
+      "caps": 4,
+      "goals": 0,
+      "club": "VfB Stuttgart (GER)"
+    },
+    {
+      "number": 17,
+      "name": "Florian Wirtz",
+      "position": "MF",
+      "caps": 17,
+      "goals": 1,
+      "club": "Bayer 04 Leverkusen (GER)"
+    },
+    {
+      "number": 19,
+      "name": "Leroy Sané",
+      "position": "MF",
+      "caps": 59,
+      "goals": 13,
+      "club": "FC Bayern Munich (GER)"
+    },
+    {
+      "number": 21,
+      "name": "İlkay Gündoğan",
+      "position": "MF",
+      "caps": 76,
+      "goals": 18,
+      "club": "FC Barcelona (ESP)"
+    },
+    {
+      "number": 23,
+      "name": "Robert Andrich",
+      "position": "MF",
+      "caps": 4,
+      "goals": 0,
+      "club": "Bayer 04 Leverkusen (GER)"
+    },
+    {
+      "number": 25,
+      "name": "Aleksandar Pavlović",
+      "position": "MF",
+      "caps": 1,
+      "goals": 0,
+      "club": "FC Bayern Munich (GER)"
+    },
+    {
+      "number": 7,
+      "name": "Kai Havertz",
+      "position": "FW",
+      "caps": 45,
+      "goals": 15,
+      "club": "Arsenal F.C. (ENG)"
+    },
+    {
+      "number": 9,
+      "name": "Niclas Füllkrug",
+      "position": "FW",
+      "caps": 15,
+      "goals": 11,
+      "club": "Borussia Dortmund (GER)"
+    },
+    {
+      "number": 13,
+      "name": "Thomas Müller",
+      "position": "FW",
+      "caps": 129,
+      "goals": 45,
+      "club": "FC Bayern Munich (GER)"
+    },
+    {
+      "number": 14,
+      "name": "Maximilian Beier",
+      "position": "FW",
+      "caps": 1,
+      "goals": 0,
+      "club": "TSG 1899 Hoffenheim (GER)"
+    },
+    {
+      "number": 26,
+      "name": "Deniz Undav",
+      "position": "FW",
+      "caps": 2,
+      "goals": 0,
+      "club": "VfB Stuttgart (GER)"
+    }
+  ],
+  "hungary": [
+    {
+      "number": 1,
+      "name": "Péter Gulácsi",
+      "position": "GK",
+      "caps": 53,
+      "goals": 0,
+      "club": "RB Leipzig (GER)"
+    },
+    {
+      "number": 12,
+      "name": "Dénes Dibusz",
+      "position": "GK",
+      "caps": 36,
+      "goals": 0,
+      "club": "Ferencvárosi TC (HUN)"
+    },
+    {
+      "number": 22,
+      "name": "Péter Szappanos",
+      "position": "GK",
+      "caps": 1,
+      "goals": 0,
+      "club": "Paksi FC (HUN)"
+    },
+    {
+      "number": 2,
+      "name": "Ádám Lang",
+      "position": "DF",
+      "caps": 68,
+      "goals": 2,
+      "club": "AC Omonia (CYP)"
+    },
+    {
+      "number": 3,
+      "name": "Botond Balogh",
+      "position": "DF",
+      "caps": 4,
+      "goals": 0,
+      "club": "Parma Calcio 1913 (ITA)"
+    },
+    {
+      "number": 4,
+      "name": "Attila Szalai",
+      "position": "DF",
+      "caps": 43,
+      "goals": 1,
+      "club": "SC Freiburg (GER)"
+    },
+    {
+      "number": 5,
+      "name": "Attila Fiola",
+      "position": "DF",
+      "caps": 56,
+      "goals": 2,
+      "club": "Fehérvár FC (HUN)"
+    },
+    {
+      "number": 6,
+      "name": "Willi Orbán",
+      "position": "DF",
+      "caps": 44,
+      "goals": 6,
+      "club": "RB Leipzig (GER)"
+    },
+    {
+      "number": 11,
+      "name": "Milos Kerkez",
+      "position": "DF",
+      "caps": 15,
+      "goals": 0,
+      "club": "AFC Bournemouth (ENG)"
+    },
+    {
+      "number": 14,
+      "name": "Bendegúz Bolla",
+      "position": "DF",
+      "caps": 16,
+      "goals": 0,
+      "club": "Servette FC (SUI)"
+    },
+    {
+      "number": 18,
+      "name": "Zsolt Nagy",
+      "position": "DF",
+      "caps": 19,
+      "goals": 3,
+      "club": "Puskás Akadémia FC (HUN)"
+    },
+    {
+      "number": 21,
+      "name": "Endre Botka",
+      "position": "DF",
+      "caps": 26,
+      "goals": 1,
+      "club": "Ferencvárosi TC (HUN)"
+    },
+    {
+      "number": 24,
+      "name": "Márton Dárdai",
+      "position": "DF",
+      "caps": 3,
+      "goals": 0,
+      "club": "Hertha BSC (GER)"
+    },
+    {
+      "number": 7,
+      "name": "Loïc Négo",
+      "position": "MF",
+      "caps": 36,
+      "goals": 2,
+      "club": "Le Havre AC (FRA)"
+    },
+    {
+      "number": 8,
+      "name": "Ádám Nagy",
+      "position": "MF",
+      "caps": 80,
+      "goals": 2,
+      "club": "Spezia Calcio (ITA)"
+    },
+    {
+      "number": 10,
+      "name": "Dominik Szoboszlai",
+      "position": "MF",
+      "caps": 41,
+      "goals": 12,
+      "club": "Liverpool F.C. (ENG)"
+    },
+    {
+      "number": 13,
+      "name": "András Schäfer",
+      "position": "MF",
+      "caps": 25,
+      "goals": 3,
+      "club": "1. FC Union Berlin (GER)"
+    },
+    {
+      "number": 15,
+      "name": "László Kleinheisler",
+      "position": "MF",
+      "caps": 50,
+      "goals": 3,
+      "club": "HNK Hajduk Split (CRO)"
+    },
+    {
+      "number": 17,
+      "name": "Callum Styles",
+      "position": "MF",
+      "caps": 21,
+      "goals": 0,
+      "club": "Sunderland A.F.C. (ENG)"
+    },
+    {
+      "number": 26,
+      "name": "Mihály Kata",
+      "position": "MF",
+      "caps": 3,
+      "goals": 0,
+      "club": "MTK Budapest FC (HUN)"
+    },
+    {
+      "number": 9,
+      "name": "Martin Ádám",
+      "position": "FW",
+      "caps": 21,
+      "goals": 3,
+      "club": "Ulsan HD FC (KOR)"
+    },
+    {
+      "number": 16,
+      "name": "Dániel Gazdag",
+      "position": "FW",
+      "caps": 24,
+      "goals": 4,
+      "club": "Philadelphia Union (USA)"
+    },
+    {
+      "number": 19,
+      "name": "Barnabás Varga",
+      "position": "FW",
+      "caps": 10,
+      "goals": 4,
+      "club": "Ferencvárosi TC (HUN)"
+    },
+    {
+      "number": 20,
+      "name": "Roland Sallai",
+      "position": "FW",
+      "caps": 48,
+      "goals": 12,
+      "club": "SC Freiburg (GER)"
+    },
+    {
+      "number": 23,
+      "name": "Kevin Csoboth",
+      "position": "FW",
+      "caps": 7,
+      "goals": 0,
+      "club": "Újpest FC (HUN)"
+    },
+    {
+      "number": 25,
+      "name": "Krisztofer Horváth",
+      "position": "FW",
+      "caps": 2,
+      "goals": 0,
+      "club": "Kecskeméti TE (HUN)"
+    }
+  ],
+  "italy": [
+    {
+      "number": 1,
+      "name": "Gianluigi Donnarumma",
+      "position": "GK",
+      "caps": 61,
+      "goals": 0,
+      "club": "Paris Saint-Germain F.C. (FRA)"
+    },
+    {
+      "number": 12,
+      "name": "Guglielmo Vicario",
+      "position": "GK",
+      "caps": 2,
+      "goals": 0,
+      "club": "Tottenham Hotspur F.C. (ENG)"
+    },
+    {
+      "number": 21,
+      "name": "Alex Meret",
+      "position": "GK",
+      "caps": 3,
+      "goals": 0,
+      "club": "SSC Napoli (ITA)"
+    },
+    {
+      "number": 2,
+      "name": "Giovanni Di Lorenzo",
+      "position": "DF",
+      "caps": 35,
+      "goals": 3,
+      "club": "SSC Napoli (ITA)"
+    },
+    {
+      "number": 3,
+      "name": "Federico Dimarco",
+      "position": "DF",
+      "caps": 18,
+      "goals": 2,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 4,
+      "name": "Alessandro Buongiorno",
+      "position": "DF",
+      "caps": 3,
+      "goals": 0,
+      "club": "Torino FC (ITA)"
+    },
+    {
+      "number": 5,
+      "name": "Gianluca Mancini",
+      "position": "DF",
+      "caps": 13,
+      "goals": 0,
+      "club": "AS Roma (ITA)"
+    },
+    {
+      "number": 13,
+      "name": "Matteo Darmian",
+      "position": "DF",
+      "caps": 42,
+      "goals": 2,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 15,
+      "name": "Riccardo Calafiori",
+      "position": "DF",
+      "caps": 1,
+      "goals": 0,
+      "club": "Bologna FC 1909 (ITA)"
+    },
+    {
+      "number": 19,
+      "name": "Raoul Bellanova",
+      "position": "DF",
+      "caps": 1,
+      "goals": 0,
+      "club": "Torino FC (ITA)"
+    },
+    {
+      "number": 23,
+      "name": "Alessandro Bastoni",
+      "position": "DF",
+      "caps": 23,
+      "goals": 1,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 24,
+      "name": "Andrea Cambiaso",
+      "position": "DF",
+      "caps": 3,
+      "goals": 0,
+      "club": "Juventus FC (ITA)"
+    },
+    {
+      "number": 25,
+      "name": "Federico Gatti",
+      "position": "DF",
+      "caps": 3,
+      "goals": 0,
+      "club": "Juventus FC (ITA)"
+    },
+    {
+      "number": 6,
+      "name": "Nicolò Fagioli",
+      "position": "MF",
+      "caps": 2,
+      "goals": 0,
+      "club": "Juventus FC (ITA)"
+    },
+    {
+      "number": 7,
+      "name": "Davide Frattesi",
+      "position": "MF",
+      "caps": 14,
+      "goals": 4,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 8,
+      "name": "Jorginho",
+      "position": "MF",
+      "caps": 53,
+      "goals": 5,
+      "club": "Arsenal F.C. (ENG)"
+    },
+    {
+      "number": 10,
+      "name": "Lorenzo Pellegrini",
+      "position": "MF",
+      "caps": 29,
+      "goals": 6,
+      "club": "AS Roma (ITA)"
+    },
+    {
+      "number": 16,
+      "name": "Bryan Cristante",
+      "position": "MF",
+      "caps": 39,
+      "goals": 2,
+      "club": "AS Roma (ITA)"
+    },
+    {
+      "number": 18,
+      "name": "Nicolò Barella",
+      "position": "MF",
+      "caps": 53,
+      "goals": 9,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 26,
+      "name": "Michael Folorunsho",
+      "position": "MF",
+      "caps": 0,
+      "goals": 0,
+      "club": "Hellas Verona FC (ITA)"
+    },
+    {
+      "number": 9,
+      "name": "Mateo Retegui",
+      "position": "FW",
+      "caps": 7,
+      "goals": 4,
+      "club": "Genoa CFC (ITA)"
+    },
+    {
+      "number": 11,
+      "name": "Giacomo Raspadori",
+      "position": "FW",
+      "caps": 27,
+      "goals": 6,
+      "club": "SSC Napoli (ITA)"
+    },
+    {
+      "number": 14,
+      "name": "Federico Chiesa",
+      "position": "FW",
+      "caps": 46,
+      "goals": 7,
+      "club": "Juventus FC (ITA)"
+    },
+    {
+      "number": 17,
+      "name": "Gianluca Scamacca",
+      "position": "FW",
+      "caps": 15,
+      "goals": 1,
+      "club": "Atalanta BC (ITA)"
+    },
+    {
+      "number": 20,
+      "name": "Mattia Zaccagni",
+      "position": "FW",
+      "caps": 5,
+      "goals": 0,
+      "club": "SS Lazio (ITA)"
+    },
+    {
+      "number": 22,
+      "name": "Stephan El Shaarawy",
+      "position": "FW",
+      "caps": 31,
+      "goals": 7,
+      "club": "AS Roma (ITA)"
+    }
+  ],
+  "netherlands": [
+    {
+      "number": 1,
+      "name": "Bart Verbruggen",
+      "position": "GK",
+      "caps": 6,
+      "goals": 0,
+      "club": "Brighton & Hove Albion F.C. (ENG)"
+    },
+    {
+      "number": 13,
+      "name": "Justin Bijlow",
+      "position": "GK",
+      "caps": 8,
+      "goals": 0,
+      "club": "Feyenoord (NED)"
+    },
+    {
+      "number": 23,
+      "name": "Mark Flekken",
+      "position": "GK",
+      "caps": 7,
+      "goals": 0,
+      "club": "Brentford F.C. (ENG)"
+    },
+    {
+      "number": 2,
+      "name": "Lutsharel Geertruida",
+      "position": "DF",
+      "caps": 8,
+      "goals": 0,
+      "club": "Feyenoord (NED)"
+    },
+    {
+      "number": 3,
+      "name": "Matthijs de Ligt",
+      "position": "DF",
+      "caps": 45,
+      "goals": 2,
+      "club": "FC Bayern Munich (GER)"
+    },
+    {
+      "number": 4,
+      "name": "Virgil van Dijk",
+      "position": "DF",
+      "caps": 67,
+      "goals": 8,
+      "club": "Liverpool F.C. (ENG)"
+    },
+    {
+      "number": 5,
+      "name": "Nathan Aké",
+      "position": "DF",
+      "caps": 44,
+      "goals": 5,
+      "club": "Manchester City F.C. (ENG)"
+    },
+    {
+      "number": 6,
+      "name": "Stefan de Vrij",
+      "position": "DF",
+      "caps": 63,
+      "goals": 3,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 12,
+      "name": "Jeremie Frimpong",
+      "position": "DF",
+      "caps": 3,
+      "goals": 1,
+      "club": "Bayer 04 Leverkusen (GER)"
+    },
+    {
+      "number": 15,
+      "name": "Micky van de Ven",
+      "position": "DF",
+      "caps": 3,
+      "goals": 0,
+      "club": "Tottenham Hotspur F.C (ENG)"
+    },
+    {
+      "number": 17,
+      "name": "Daley Blind",
+      "position": "DF",
+      "caps": 107,
+      "goals": 3,
+      "club": "Girona FC (ESP)"
+    },
+    {
+      "number": 22,
+      "name": "Denzel Dumfries",
+      "position": "DF",
+      "caps": 52,
+      "goals": 6,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 7,
+      "name": "Xavi Simons",
+      "position": "MF",
+      "caps": 13,
+      "goals": 0,
+      "club": "RB Leipzig (GER)"
+    },
+    {
+      "number": 8,
+      "name": "Georginio Wijnaldum",
+      "position": "MF",
+      "caps": 92,
+      "goals": 28,
+      "club": "Al-Ettifaq FC (KSA)"
+    },
+    {
+      "number": 14,
+      "name": "Tijjani Reijnders",
+      "position": "MF",
+      "caps": 8,
+      "goals": 1,
+      "club": "AC Milan (ITA)"
+    },
+    {
+      "number": 16,
+      "name": "Joey Veerman",
+      "position": "MF",
+      "caps": 9,
+      "goals": 1,
+      "club": "PSV Eindhoven (NED)"
+    },
+    {
+      "number": 20,
+      "name": "Teun Koopmeiners",
+      "position": "MF",
+      "caps": 21,
+      "goals": 2,
+      "club": "Atalanta BC (ITA)"
+    },
+    {
+      "number": 21,
+      "name": "Frenkie de Jong",
+      "position": "MF",
+      "caps": 54,
+      "goals": 2,
+      "club": "FC Barcelona (ESP)"
+    },
+    {
+      "number": 24,
+      "name": "Jerdy Schouten",
+      "position": "MF",
+      "caps": 4,
+      "goals": 0,
+      "club": "PSV Eindhoven (NED)"
+    },
+    {
+      "number": 26,
+      "name": "Ryan Gravenberch",
+      "position": "MF",
+      "caps": 12,
+      "goals": 1,
+      "club": "Liverpool F.C. (ENG)"
+    },
+    {
+      "number": 9,
+      "name": "Wout Weghorst",
+      "position": "FW",
+      "caps": 32,
+      "goals": 10,
+      "club": "TSG 1899 Hoffenheim (GER)"
+    },
+    {
+      "number": 10,
+      "name": "Memphis Depay",
+      "position": "FW",
+      "caps": 91,
+      "goals": 45,
+      "club": "Atlético Madrid (ESP)"
+    },
+    {
+      "number": 11,
+      "name": "Cody Gakpo",
+      "position": "FW",
+      "caps": 23,
+      "goals": 9,
+      "club": "Liverpool F.C. (ENG)"
+    },
+    {
+      "number": 18,
+      "name": "Donyell Malen",
+      "position": "FW",
+      "caps": 31,
+      "goals": 6,
+      "club": "Borussia Dortmund (GER)"
+    },
+    {
+      "number": 19,
+      "name": "Brian Brobbey",
+      "position": "FW",
+      "caps": 2,
+      "goals": 0,
+      "club": "AFC Ajax (NED)"
+    },
+    {
+      "number": 25,
+      "name": "Steven Bergwijn",
+      "position": "FW",
+      "caps": 33,
+      "goals": 8,
+      "club": "AFC Ajax (NED)"
+    }
+  ],
+  "poland": [
+    {
+      "number": 1,
+      "name": "Wojciech Szczęsny",
+      "position": "GK",
+      "caps": 81,
+      "goals": 0,
+      "club": "Juventus FC (ITA)"
+    },
+    {
+      "number": 12,
+      "name": "Łukasz Skorupski",
+      "position": "GK",
+      "caps": 10,
+      "goals": 0,
+      "club": "Bologna FC 1909 (ITA)"
+    },
+    {
+      "number": 22,
+      "name": "Marcin Bułka",
+      "position": "GK",
+      "caps": 1,
+      "goals": 0,
+      "club": "OGC Nice (FRA)"
+    },
+    {
+      "number": 2,
+      "name": "Bartosz Salamon",
+      "position": "DF",
+      "caps": 13,
+      "goals": 0,
+      "club": "Lech Poznań (POL)"
+    },
+    {
+      "number": 3,
+      "name": "Paweł Dawidowicz",
+      "position": "DF",
+      "caps": 10,
+      "goals": 0,
+      "club": "Hellas Verona FC (ITA)"
+    },
+    {
+      "number": 4,
+      "name": "Sebastian Walukiewicz",
+      "position": "DF",
+      "caps": 4,
+      "goals": 1,
+      "club": "Empoli FC (ITA)"
+    },
+    {
+      "number": 5,
+      "name": "Jan Bednarek",
+      "position": "DF",
+      "caps": 56,
+      "goals": 1,
+      "club": "Southampton F.C. (ENG)"
+    },
+    {
+      "number": 14,
+      "name": "Jakub Kiwior",
+      "position": "DF",
+      "caps": 22,
+      "goals": 1,
+      "club": "Arsenal F.C. (ENG)"
+    },
+    {
+      "number": 15,
+      "name": "Tymoteusz Puchacz",
+      "position": "DF",
+      "caps": 14,
+      "goals": 0,
+      "club": "1. FC Kaiserslautern (GER)"
+    },
+    {
+      "number": 18,
+      "name": "Bartosz Bereszyński",
+      "position": "DF",
+      "caps": 55,
+      "goals": 0,
+      "club": "Empoli FC (ITA)"
+    },
+    {
+      "number": 6,
+      "name": "Jakub Piotrowski",
+      "position": "MF",
+      "caps": 5,
+      "goals": 2,
+      "club": "PFC Ludogorets Razgrad (BUL)"
+    },
+    {
+      "number": 8,
+      "name": "Jakub Moder",
+      "position": "MF",
+      "caps": 22,
+      "goals": 2,
+      "club": "Brighton & Hove Albion F.C. (ENG)"
+    },
+    {
+      "number": 10,
+      "name": "Piotr Zieliński",
+      "position": "MF",
+      "caps": 89,
+      "goals": 12,
+      "club": "SSC Napoli (ITA)"
+    },
+    {
+      "number": 11,
+      "name": "Kamil Grosicki",
+      "position": "MF",
+      "caps": 93,
+      "goals": 17,
+      "club": "Pogoń Szczecin (POL)"
+    },
+    {
+      "number": 13,
+      "name": "Taras Romanczuk",
+      "position": "MF",
+      "caps": 3,
+      "goals": 1,
+      "club": "Jagiellonia Białystok (POL)"
+    },
+    {
+      "number": 17,
+      "name": "Damian Szymański",
+      "position": "MF",
+      "caps": 17,
+      "goals": 2,
+      "club": "AEK Athens F.C. (GRE)"
+    },
+    {
+      "number": 19,
+      "name": "Przemysław Frankowski",
+      "position": "MF",
+      "caps": 40,
+      "goals": 3,
+      "club": "RC Lens (FRA)"
+    },
+    {
+      "number": 20,
+      "name": "Sebastian Szymański",
+      "position": "MF",
+      "caps": 33,
+      "goals": 3,
+      "club": "Fenerbahçe S.K. (TUR)"
+    },
+    {
+      "number": 21,
+      "name": "Nicola Zalewski",
+      "position": "MF",
+      "caps": 17,
+      "goals": 0,
+      "club": "AS Roma (ITA)"
+    },
+    {
+      "number": 24,
+      "name": "Bartosz Slisz",
+      "position": "MF",
+      "caps": 8,
+      "goals": 0,
+      "club": "Atlanta United FC (USA)"
+    },
+    {
+      "number": 25,
+      "name": "Michał Skóraś",
+      "position": "MF",
+      "caps": 8,
+      "goals": 0,
+      "club": "Club Brugge KV (BEL)"
+    },
+    {
+      "number": 26,
+      "name": "Kacper Urbański",
+      "position": "MF",
+      "caps": 1,
+      "goals": 0,
+      "club": "Bologna FC 1909 (ITA)"
+    },
+    {
+      "number": 7,
+      "name": "Karol Świderski",
+      "position": "FW",
+      "caps": 30,
+      "goals": 10,
+      "club": "Hellas Verona FC (ITA)"
+    },
+    {
+      "number": 9,
+      "name": "Robert Lewandowski",
+      "position": "FW",
+      "caps": 149,
+      "goals": 82,
+      "club": "FC Barcelona (ESP)"
+    },
+    {
+      "number": 16,
+      "name": "Adam Buksa",
+      "position": "FW",
+      "caps": 15,
+      "goals": 6,
+      "club": "Antalyaspor (TUR)"
+    },
+    {
+      "number": 23,
+      "name": "Krzysztof Piątek",
+      "position": "FW",
+      "caps": 28,
+      "goals": 11,
+      "club": "İstanbul Başakşehir F.K. (TUR)"
+    }
+  ],
+  "portugal": [
+    {
+      "number": 1,
+      "name": "Rui Patrício",
+      "position": "GK",
+      "caps": 108,
+      "goals": 0,
+      "club": "AS Roma (ITA)"
+    },
+    {
+      "number": 12,
+      "name": "José Sá",
+      "position": "GK",
+      "caps": 2,
+      "goals": 0,
+      "club": "Wolverhampton Wanderers F.C. (ENG)"
+    },
+    {
+      "number": 22,
+      "name": "Diogo Costa",
+      "position": "GK",
+      "caps": 20,
+      "goals": 0,
+      "club": "FC Porto (POR)"
+    },
+    {
+      "number": 2,
+      "name": "Nélson Semedo",
+      "position": "DF",
+      "caps": 28,
+      "goals": 0,
+      "club": "Wolverhampton Wanderers F.C. (ENG)"
+    },
+    {
+      "number": 3,
+      "name": "Pepe",
+      "position": "DF",
+      "caps": 136,
+      "goals": 8,
+      "club": "FC Porto (POR)"
+    },
+    {
+      "number": 4,
+      "name": "Rúben Dias",
+      "position": "DF",
+      "caps": 55,
+      "goals": 3,
+      "club": "Manchester City F.C. (ENG)"
+    },
+    {
+      "number": 5,
+      "name": "Diogo Dalot",
+      "position": "DF",
+      "caps": 18,
+      "goals": 2,
+      "club": "Manchester United F.C. (ENG)"
+    },
+    {
+      "number": 13,
+      "name": "Danilo Pereira",
+      "position": "DF",
+      "caps": 72,
+      "goals": 2,
+      "club": "Paris Saint-Germain F.C. (FRA)"
+    },
+    {
+      "number": 14,
+      "name": "Gonçalo Inácio",
+      "position": "DF",
+      "caps": 7,
+      "goals": 2,
+      "club": "Sporting CP (POR)"
+    },
+    {
+      "number": 19,
+      "name": "Nuno Mendes",
+      "position": "DF",
+      "caps": 21,
+      "goals": 0,
+      "club": "Paris Saint-Germain F.C. (FRA)"
+    },
+    {
+      "number": 20,
+      "name": "João Cancelo",
+      "position": "DF",
+      "caps": 52,
+      "goals": 10,
+      "club": "FC Barcelona (ESP)"
+    },
+    {
+      "number": 24,
+      "name": "António Silva",
+      "position": "DF",
+      "caps": 10,
+      "goals": 0,
+      "club": "S.L. Benfica (POR)"
+    },
+    {
+      "number": 6,
+      "name": "João Palhinha",
+      "position": "MF",
+      "caps": 26,
+      "goals": 2,
+      "club": "Fulham F.C. (ENG)"
+    },
+    {
+      "number": 8,
+      "name": "Bruno Fernandes",
+      "position": "MF",
+      "caps": 65,
+      "goals": 22,
+      "club": "Manchester United F.C. (ENG)"
+    },
+    {
+      "number": 15,
+      "name": "João Neves",
+      "position": "MF",
+      "caps": 6,
+      "goals": 0,
+      "club": "S.L. Benfica (POR)"
+    },
+    {
+      "number": 16,
+      "name": "Matheus Nunes",
+      "position": "MF",
+      "caps": 12,
+      "goals": 2,
+      "club": "Manchester City F.C. (ENG)"
+    },
+    {
+      "number": 18,
+      "name": "Rúben Neves",
+      "position": "MF",
+      "caps": 46,
+      "goals": 0,
+      "club": "Al Hilal SFC (KSA)"
+    },
+    {
+      "number": 23,
+      "name": "Vitinha",
+      "position": "MF",
+      "caps": 16,
+      "goals": 0,
+      "club": "Paris Saint-Germain F.C. (FRA)"
+    },
+    {
+      "number": 7,
+      "name": "Cristiano Ronaldo",
+      "position": "FW",
+      "caps": 206,
+      "goals": 128,
+      "club": "Al Nassr FC (KSA)"
+    },
+    {
+      "number": 9,
+      "name": "Gonçalo Ramos",
+      "position": "FW",
+      "caps": 12,
+      "goals": 8,
+      "club": "Paris Saint-Germain F.C. (FRA)"
+    },
+    {
+      "number": 10,
+      "name": "Bernardo Silva",
+      "position": "FW",
+      "caps": 88,
+      "goals": 11,
+      "club": "Manchester City F.C. (ENG)"
+    },
+    {
+      "number": 11,
+      "name": "João Félix",
+      "position": "FW",
+      "caps": 37,
+      "goals": 7,
+      "club": "FC Barcelona (ESP)"
+    },
+    {
+      "number": 17,
+      "name": "Rafael Leão",
+      "position": "FW",
+      "caps": 25,
+      "goals": 4,
+      "club": "AC Milan (ITA)"
+    },
+    {
+      "number": 21,
+      "name": "Diogo Jota",
+      "position": "FW",
+      "caps": 37,
+      "goals": 13,
+      "club": "Liverpool F.C. (ENG)"
+    },
+    {
+      "number": 25,
+      "name": "Pedro Neto",
+      "position": "FW",
+      "caps": 6,
+      "goals": 1,
+      "club": "Wolverhampton Wanderers F.C. (ENG)"
+    },
+    {
+      "number": 26,
+      "name": "Francisco Conceição",
+      "position": "FW",
+      "caps": 2,
+      "goals": 0,
+      "club": "FC Porto (POR)"
+    }
+  ],
+  "romania": [
+    {
+      "number": 1,
+      "name": "Florin Niță",
+      "position": "GK",
+      "caps": 21,
+      "goals": 0,
+      "club": "Gaziantep F.K. (TUR)"
+    },
+    {
+      "number": 12,
+      "name": "Horațiu Moldovan",
+      "position": "GK",
+      "caps": 10,
+      "goals": 0,
+      "club": "Atlético Madrid (ESP)"
+    },
+    {
+      "number": 16,
+      "name": "Ștefan Târnovanu",
+      "position": "GK",
+      "caps": 1,
+      "goals": 0,
+      "club": "FCSB (ROU)"
+    },
+    {
+      "number": 2,
+      "name": "Andrei Rațiu",
+      "position": "DF",
+      "caps": 17,
+      "goals": 1,
+      "club": "Rayo Vallecano (ESP)"
+    },
+    {
+      "number": 3,
+      "name": "Radu Drăgușin",
+      "position": "DF",
+      "caps": 16,
+      "goals": 0,
+      "club": "Tottenham Hotspur F.C. (ENG)"
+    },
+    {
+      "number": 4,
+      "name": "Adrian Rus",
+      "position": "DF",
+      "caps": 20,
+      "goals": 1,
+      "club": "Pafos FC (CYP)"
+    },
+    {
+      "number": 5,
+      "name": "Ionuț Nedelcearu",
+      "position": "DF",
+      "caps": 27,
+      "goals": 2,
+      "club": "Palermo FC (ITA)"
+    },
+    {
+      "number": 11,
+      "name": "Nicușor Bancu",
+      "position": "DF",
+      "caps": 35,
+      "goals": 2,
+      "club": "CS Universitatea Craiova (ROU)"
+    },
+    {
+      "number": 15,
+      "name": "Andrei Burcă",
+      "position": "DF",
+      "caps": 27,
+      "goals": 1,
+      "club": "Al-Okhdood Club (KSA)"
+    },
+    {
+      "number": 22,
+      "name": "Vasile Mogoș",
+      "position": "DF",
+      "caps": 6,
+      "goals": 0,
+      "club": "CFR Cluj (ROU)"
+    },
+    {
+      "number": 24,
+      "name": "Bogdan Racovițan",
+      "position": "DF",
+      "caps": 1,
+      "goals": 0,
+      "club": "Raków Częstochowa (POL)"
+    },
+    {
+      "number": 6,
+      "name": "Marius Marin",
+      "position": "MF",
+      "caps": 17,
+      "goals": 0,
+      "club": "Pisa SC (ITA)"
+    },
+    {
+      "number": 8,
+      "name": "Alexandru Cicâldău",
+      "position": "MF",
+      "caps": 36,
+      "goals": 4,
+      "club": "Konyaspor (TUR)"
+    },
+    {
+      "number": 10,
+      "name": "Nicolae Stanciu",
+      "position": "MF",
+      "caps": 69,
+      "goals": 14,
+      "club": "Damac FC (KSA)"
+    },
+    {
+      "number": 13,
+      "name": "Valentin Mihăilă",
+      "position": "MF",
+      "caps": 20,
+      "goals": 4,
+      "club": "Parma Calcio 1913 (ITA)"
+    },
+    {
+      "number": 14,
+      "name": "Ianis Hagi",
+      "position": "MF",
+      "caps": 34,
+      "goals": 5,
+      "club": "Deportivo Alavés (ESP)"
+    },
+    {
+      "number": 17,
+      "name": "Florinel Coman",
+      "position": "MF",
+      "caps": 14,
+      "goals": 1,
+      "club": "FCSB (ROU)"
+    },
+    {
+      "number": 18,
+      "name": "Răzvan Marin",
+      "position": "MF",
+      "caps": 55,
+      "goals": 3,
+      "club": "Empoli FC (ITA)"
+    },
+    {
+      "number": 20,
+      "name": "Dennis Man",
+      "position": "MF",
+      "caps": 23,
+      "goals": 7,
+      "club": "Parma Calcio 1913 (ITA)"
+    },
+    {
+      "number": 21,
+      "name": "Darius Olaru",
+      "position": "MF",
+      "caps": 17,
+      "goals": 0,
+      "club": "FCSB (ROU)"
+    },
+    {
+      "number": 23,
+      "name": "Deian Sorescu",
+      "position": "MF",
+      "caps": 16,
+      "goals": 0,
+      "club": "Gaziantep F.K. (TUR)"
+    },
+    {
+      "number": 26,
+      "name": "Adrian Șut",
+      "position": "MF",
+      "caps": 1,
+      "goals": 0,
+      "club": "FCSB (ROU)"
+    },
+    {
+      "number": 7,
+      "name": "Denis Alibec",
+      "position": "FW",
+      "caps": 37,
+      "goals": 5,
+      "club": "Muaither SC (QAT)"
+    },
+    {
+      "number": 9,
+      "name": "George Pușcaș",
+      "position": "FW",
+      "caps": 41,
+      "goals": 11,
+      "club": "SSC Bari (ITA)"
+    },
+    {
+      "number": 19,
+      "name": "Denis Drăguș",
+      "position": "FW",
+      "caps": 10,
+      "goals": 2,
+      "club": "Gaziantep F.K. (TUR)"
+    },
+    {
+      "number": 25,
+      "name": "Daniel Bîrligea",
+      "position": "FW",
+      "caps": 2,
+      "goals": 0,
+      "club": "CFR Cluj (ROU)"
+    }
+  ],
+  "scotland": [
+    {
+      "number": 1,
+      "name": "Angus Gunn",
+      "position": "GK",
+      "caps": 10,
+      "goals": 0,
+      "club": "Norwich City F.C. (ENG)"
+    },
+    {
+      "number": 12,
+      "name": "Liam Kelly",
+      "position": "GK",
+      "caps": 1,
+      "goals": 0,
+      "club": "Motherwell F.C. (SCO)"
+    },
+    {
+      "number": 21,
+      "name": "Zander Clark",
+      "position": "GK",
+      "caps": 4,
+      "goals": 0,
+      "club": "Heart of Midlothian F.C. (SCO)"
+    },
+    {
+      "number": 2,
+      "name": "Anthony Ralston",
+      "position": "DF",
+      "caps": 9,
+      "goals": 1,
+      "club": "Celtic F.C. (SCO)"
+    },
+    {
+      "number": 3,
+      "name": "Andrew Robertson",
+      "position": "DF",
+      "caps": 71,
+      "goals": 3,
+      "club": "Liverpool F.C. (ENG)"
+    },
+    {
+      "number": 5,
+      "name": "Grant Hanley",
+      "position": "DF",
+      "caps": 50,
+      "goals": 2,
+      "club": "Norwich City F.C. (ENG)"
+    },
+    {
+      "number": 6,
+      "name": "Kieran Tierney",
+      "position": "DF",
+      "caps": 45,
+      "goals": 1,
+      "club": "Real Sociedad (ESP)"
+    },
+    {
+      "number": 13,
+      "name": "Jack Hendry",
+      "position": "DF",
+      "caps": 31,
+      "goals": 3,
+      "club": "Ettifaq FC (KSA)"
+    },
+    {
+      "number": 15,
+      "name": "Ryan Porteous",
+      "position": "DF",
+      "caps": 11,
+      "goals": 1,
+      "club": "Watford F.C. (ENG)"
+    },
+    {
+      "number": 16,
+      "name": "Liam Cooper",
+      "position": "DF",
+      "caps": 19,
+      "goals": 0,
+      "club": "Leeds United F.C. (ENG)"
+    },
+    {
+      "number": 22,
+      "name": "Ross McCrorie",
+      "position": "DF",
+      "caps": 1,
+      "goals": 0,
+      "club": "Bristol City F.C. (ENG)"
+    },
+    {
+      "number": 24,
+      "name": "Greg Taylor",
+      "position": "DF",
+      "caps": 14,
+      "goals": 0,
+      "club": "Celtic F.C. (SCO)"
+    },
+    {
+      "number": 26,
+      "name": "Scott McKenna",
+      "position": "DF",
+      "caps": 35,
+      "goals": 1,
+      "club": "F.C. Copenhagen (DEN)"
+    },
+    {
+      "number": 4,
+      "name": "Scott McTominay",
+      "position": "MF",
+      "caps": 49,
+      "goals": 8,
+      "club": "Manchester United F.C. (ENG)"
+    },
+    {
+      "number": 7,
+      "name": "John McGinn",
+      "position": "MF",
+      "caps": 66,
+      "goals": 18,
+      "club": "Aston Villa F.C. (ENG)"
+    },
+    {
+      "number": 8,
+      "name": "Callum McGregor",
+      "position": "MF",
+      "caps": 60,
+      "goals": 3,
+      "club": "Celtic F.C. (SCO)"
+    },
+    {
+      "number": 11,
+      "name": "Ryan Christie",
+      "position": "MF",
+      "caps": 49,
+      "goals": 6,
+      "club": "AFC Bournemouth (ENG)"
+    },
+    {
+      "number": 14,
+      "name": "Billy Gilmour",
+      "position": "MF",
+      "caps": 27,
+      "goals": 1,
+      "club": "Brighton & Hove Albion F.C. (ENG)"
+    },
+    {
+      "number": 17,
+      "name": "Stuart Armstrong",
+      "position": "MF",
+      "caps": 50,
+      "goals": 5,
+      "club": "Southampton F.C. (ENG)"
+    },
+    {
+      "number": 20,
+      "name": "Ryan Jack",
+      "position": "MF",
+      "caps": 20,
+      "goals": 0,
+      "club": "Rangers F.C. (SCO)"
+    },
+    {
+      "number": 23,
+      "name": "Kenny McLean",
+      "position": "MF",
+      "caps": 39,
+      "goals": 2,
+      "club": "Norwich City F.C. (ENG)"
+    },
+    {
+      "number": 9,
+      "name": "Lawrence Shankland",
+      "position": "FW",
+      "caps": 11,
+      "goals": 3,
+      "club": "Heart of Midlothian F.C. (SCO)"
+    },
+    {
+      "number": 10,
+      "name": "Ché Adams",
+      "position": "FW",
+      "caps": 30,
+      "goals": 6,
+      "club": "Southampton F.C. (ENG)"
+    },
+    {
+      "number": 18,
+      "name": "Lewis Morgan",
+      "position": "FW",
+      "caps": 3,
+      "goals": 0,
+      "club": "New York Red Bulls (USA)"
+    },
+    {
+      "number": 19,
+      "name": "Tommy Conway",
+      "position": "FW",
+      "caps": 1,
+      "goals": 0,
+      "club": "Bristol City F.C. (ENG)"
+    },
+    {
+      "number": 25,
+      "name": "James Forrest",
+      "position": "FW",
+      "caps": 39,
+      "goals": 5,
+      "club": "Celtic F.C. (SCO)"
+    }
+  ],
+  "serbia": [
+    {
+      "number": 1,
+      "name": "Predrag Rajković",
+      "position": "GK",
+      "caps": 31,
+      "goals": 0,
+      "club": "RCD Mallorca (ESP)"
+    },
+    {
+      "number": 12,
+      "name": "Đorđe Petrović",
+      "position": "GK",
+      "caps": 3,
+      "goals": 0,
+      "club": "Chelsea F.C. (ENG)"
+    },
+    {
+      "number": 23,
+      "name": "Vanja Milinković-Savić",
+      "position": "GK",
+      "caps": 19,
+      "goals": 0,
+      "club": "Torino FC (ITA)"
+    },
+    {
+      "number": 2,
+      "name": "Strahinja Pavlović",
+      "position": "DF",
+      "caps": 34,
+      "goals": 4,
+      "club": "FC Red Bull Salzburg (AUT)"
+    },
+    {
+      "number": 3,
+      "name": "Nemanja Stojić",
+      "position": "DF",
+      "caps": 1,
+      "goals": 0,
+      "club": "FK TSC (SRB)"
+    },
+    {
+      "number": 4,
+      "name": "Nikola Milenković",
+      "position": "DF",
+      "caps": 52,
+      "goals": 3,
+      "club": "ACF Fiorentina (ITA)"
+    },
+    {
+      "number": 6,
+      "name": "Nemanja Gudelj",
+      "position": "DF",
+      "caps": 61,
+      "goals": 1,
+      "club": "Sevilla FC (ESP)"
+    },
+    {
+      "number": 13,
+      "name": "Miloš Veljković",
+      "position": "DF",
+      "caps": 30,
+      "goals": 1,
+      "club": "SV Werder Bremen (GER)"
+    },
+    {
+      "number": 15,
+      "name": "Srđan Babić",
+      "position": "DF",
+      "caps": 8,
+      "goals": 1,
+      "club": "FC Spartak Moscow (RUS)"
+    },
+    {
+      "number": 24,
+      "name": "Uroš Spajić",
+      "position": "DF",
+      "caps": 21,
+      "goals": 0,
+      "club": "Red Star Belgrade (SRB)"
+    },
+    {
+      "number": 25,
+      "name": "Filip Mladenović",
+      "position": "DF",
+      "caps": 30,
+      "goals": 1,
+      "club": "Panathinaikos F.C. (GRE)"
+    },
+    {
+      "number": 5,
+      "name": "Nemanja Maksimović",
+      "position": "MF",
+      "caps": 49,
+      "goals": 0,
+      "club": "Getafe CF (ESP)"
+    },
+    {
+      "number": 10,
+      "name": "Dušan Tadić",
+      "position": "MF",
+      "caps": 107,
+      "goals": 22,
+      "club": "Fenerbahçe S.K. (TUR)"
+    },
+    {
+      "number": 11,
+      "name": "Filip Kostić",
+      "position": "MF",
+      "caps": 62,
+      "goals": 3,
+      "club": "Juventus FC (ITA)"
+    },
+    {
+      "number": 14,
+      "name": "Andrija Živković",
+      "position": "MF",
+      "caps": 45,
+      "goals": 1,
+      "club": "PAOK FC (GRE)"
+    },
+    {
+      "number": 16,
+      "name": "Srđan Mijailović",
+      "position": "MF",
+      "caps": 7,
+      "goals": 0,
+      "club": "Red Star Belgrade (SRB)"
+    },
+    {
+      "number": 17,
+      "name": "Ivan Ilić",
+      "position": "MF",
+      "caps": 15,
+      "goals": 0,
+      "club": "Torino FC (ITA)"
+    },
+    {
+      "number": 19,
+      "name": "Lazar Samardžić",
+      "position": "MF",
+      "caps": 8,
+      "goals": 0,
+      "club": "Udinese Calcio (ITA)"
+    },
+    {
+      "number": 20,
+      "name": "Sergej Milinković-Savić",
+      "position": "MF",
+      "caps": 50,
+      "goals": 8,
+      "club": "Al Hilal SFC (KSA)"
+    },
+    {
+      "number": 21,
+      "name": "Mijat Gaćinović",
+      "position": "MF",
+      "caps": 27,
+      "goals": 2,
+      "club": "AEK Athens F.C. (GRE)"
+    },
+    {
+      "number": 22,
+      "name": "Saša Lukić",
+      "position": "MF",
+      "caps": 45,
+      "goals": 2,
+      "club": "Fulham F.C. (ENG)"
+    },
+    {
+      "number": 26,
+      "name": "Veljko Birmančević",
+      "position": "MF",
+      "caps": 4,
+      "goals": 0,
+      "club": "AC Sparta Prague (CZE)"
+    },
+    {
+      "number": 7,
+      "name": "Dušan Vlahović",
+      "position": "FW",
+      "caps": 26,
+      "goals": 13,
+      "club": "Juventus FC (ITA)"
+    },
+    {
+      "number": 8,
+      "name": "Luka Jović",
+      "position": "FW",
+      "caps": 34,
+      "goals": 10,
+      "club": "AC Milan (ITA)"
+    },
+    {
+      "number": 9,
+      "name": "Aleksandar Mitrović",
+      "position": "FW",
+      "caps": 90,
+      "goals": 57,
+      "club": "Al Hilal SFC (KSA)"
+    },
+    {
+      "number": 18,
+      "name": "Petar Ratkov",
+      "position": "FW",
+      "caps": 1,
+      "goals": 0,
+      "club": "FC Red Bull Salzburg (AUT)"
+    }
+  ],
+  "slovakia": [
+    {
+      "number": 1,
+      "name": "Martin Dúbravka",
+      "position": "GK",
+      "caps": 42,
+      "goals": 0,
+      "club": "Newcastle United F.C. (ENG)"
+    },
+    {
+      "number": 12,
+      "name": "Marek Rodák",
+      "position": "GK",
+      "caps": 22,
+      "goals": 0,
+      "club": "Fulham F.C. (ENG)"
+    },
+    {
+      "number": 23,
+      "name": "Henrich Ravas",
+      "position": "GK",
+      "caps": 0,
+      "goals": 0,
+      "club": "New England Revolution (USA)"
+    },
+    {
+      "number": 2,
+      "name": "Peter Pekarík",
+      "position": "DF",
+      "caps": 126,
+      "goals": 2,
+      "club": "Hertha BSC (GER)"
+    },
+    {
+      "number": 3,
+      "name": "Denis Vavro",
+      "position": "DF",
+      "caps": 19,
+      "goals": 2,
+      "club": "F.C. Copenhagen (DEN)"
+    },
+    {
+      "number": 4,
+      "name": "Adam Obert",
+      "position": "DF",
+      "caps": 4,
+      "goals": 0,
+      "club": "Cagliari Calcio (ITA)"
+    },
+    {
+      "number": 6,
+      "name": "Norbert Gyömbér",
+      "position": "DF",
+      "caps": 39,
+      "goals": 0,
+      "club": "US Salernitana 1919 (ITA)"
+    },
+    {
+      "number": 14,
+      "name": "Milan Škriniar",
+      "position": "DF",
+      "caps": 67,
+      "goals": 3,
+      "club": "Paris Saint-Germain F.C. (FRA)"
+    },
+    {
+      "number": 15,
+      "name": "Vernon De Marco",
+      "position": "DF",
+      "caps": 9,
+      "goals": 1,
+      "club": "Hatta Club (UAE)"
+    },
+    {
+      "number": 16,
+      "name": "Dávid Hancko",
+      "position": "DF",
+      "caps": 37,
+      "goals": 4,
+      "club": "Feyenoord (NED)"
+    },
+    {
+      "number": 25,
+      "name": "Sebastian Kóša",
+      "position": "DF",
+      "caps": 1,
+      "goals": 0,
+      "club": "FC Spartak Trnava (SVK)"
+    },
+    {
+      "number": 5,
+      "name": "Tomáš Rigo",
+      "position": "MF",
+      "caps": 1,
+      "goals": 1,
+      "club": "FC Baník Ostrava (CZE)"
+    },
+    {
+      "number": 8,
+      "name": "Ondrej Duda",
+      "position": "MF",
+      "caps": 71,
+      "goals": 13,
+      "club": "Hellas Verona FC (ITA)"
+    },
+    {
+      "number": 11,
+      "name": "László Bénes",
+      "position": "MF",
+      "caps": 21,
+      "goals": 1,
+      "club": "Hamburger SV (GER)"
+    },
+    {
+      "number": 13,
+      "name": "Patrik Hrošovský",
+      "position": "MF",
+      "caps": 55,
+      "goals": 0,
+      "club": "K.R.C. Genk (BEL)"
+    },
+    {
+      "number": 19,
+      "name": "Juraj Kucka",
+      "position": "MF",
+      "caps": 106,
+      "goals": 13,
+      "club": "ŠK Slovan Bratislava (SVK)"
+    },
+    {
+      "number": 21,
+      "name": "Matúš Bero",
+      "position": "MF",
+      "caps": 29,
+      "goals": 1,
+      "club": "VfL Bochum (GER)"
+    },
+    {
+      "number": 22,
+      "name": "Stanislav Lobotka",
+      "position": "MF",
+      "caps": 54,
+      "goals": 4,
+      "club": "SSC Napoli (ITA)"
+    },
+    {
+      "number": 7,
+      "name": "Tomáš Suslov",
+      "position": "FW",
+      "caps": 27,
+      "goals": 3,
+      "club": "Hellas Verona FC (ITA)"
+    },
+    {
+      "number": 9,
+      "name": "Róbert Boženík",
+      "position": "FW",
+      "caps": 39,
+      "goals": 6,
+      "club": "Boavista F.C. (POR)"
+    },
+    {
+      "number": 10,
+      "name": "Ľubomír Tupta",
+      "position": "FW",
+      "caps": 5,
+      "goals": 0,
+      "club": "FC Slovan Liberec (CZE)"
+    },
+    {
+      "number": 17,
+      "name": "Lukáš Haraslín",
+      "position": "FW",
+      "caps": 35,
+      "goals": 6,
+      "club": "AC Sparta Prague (CZE)"
+    },
+    {
+      "number": 18,
+      "name": "David Strelec",
+      "position": "FW",
+      "caps": 18,
+      "goals": 3,
+      "club": "ŠK Slovan Bratislava (SVK)"
+    },
+    {
+      "number": 20,
+      "name": "Dávid Ďuriš",
+      "position": "FW",
+      "caps": 12,
+      "goals": 1,
+      "club": "Ascoli Calcio 1898 FC (ITA)"
+    },
+    {
+      "number": 24,
+      "name": "Leo Sauer",
+      "position": "FW",
+      "caps": 2,
+      "goals": 0,
+      "club": "Feyenoord (NED)"
+    },
+    {
+      "number": 26,
+      "name": "Ivan Schranz",
+      "position": "FW",
+      "caps": 21,
+      "goals": 3,
+      "club": "SK Slavia Prague (CZE)"
+    }
+  ],
+  "slovenia": [
+    {
+      "number": 1,
+      "name": "Jan Oblak",
+      "position": "GK",
+      "caps": 64,
+      "goals": 0,
+      "club": "Atlético Madrid (ESP)"
+    },
+    {
+      "number": 12,
+      "name": "Vid Belec",
+      "position": "GK",
+      "caps": 21,
+      "goals": 0,
+      "club": "APOEL FC (CYP)"
+    },
+    {
+      "number": 16,
+      "name": "Igor Vekić",
+      "position": "GK",
+      "caps": 1,
+      "goals": 0,
+      "club": "Vejle Boldklub (DEN)"
+    },
+    {
+      "number": 2,
+      "name": "Žan Karničnik",
+      "position": "DF",
+      "caps": 27,
+      "goals": 1,
+      "club": "NK Celje (SVN)"
+    },
+    {
+      "number": 3,
+      "name": "Jure Balkovec",
+      "position": "DF",
+      "caps": 32,
+      "goals": 0,
+      "club": "Alanyaspor (TUR)"
+    },
+    {
+      "number": 4,
+      "name": "David Brekalo",
+      "position": "DF",
+      "caps": 12,
+      "goals": 1,
+      "club": "Orlando City SC (USA)"
+    },
+    {
+      "number": 6,
+      "name": "Jaka Bijol",
+      "position": "DF",
+      "caps": 48,
+      "goals": 1,
+      "club": "Udinese Calcio (ITA)"
+    },
+    {
+      "number": 13,
+      "name": "Erik Janža",
+      "position": "DF",
+      "caps": 9,
+      "goals": 2,
+      "club": "Górnik Zabrze (POL)"
+    },
+    {
+      "number": 20,
+      "name": "Petar Stojanović",
+      "position": "DF",
+      "caps": 53,
+      "goals": 2,
+      "club": "UC Sampdoria (ITA)"
+    },
+    {
+      "number": 21,
+      "name": "Vanja Drkušić",
+      "position": "DF",
+      "caps": 7,
+      "goals": 0,
+      "club": "PFC Sochi (RUS)"
+    },
+    {
+      "number": 23,
+      "name": "Miha Blažič",
+      "position": "DF",
+      "caps": 32,
+      "goals": 0,
+      "club": "Lech Poznań (POL)"
+    },
+    {
+      "number": 5,
+      "name": "Jon Gorenc Stanković",
+      "position": "MF",
+      "caps": 23,
+      "goals": 1,
+      "club": "SK Sturm Graz (AUT)"
+    },
+    {
+      "number": 7,
+      "name": "Benjamin Verbič",
+      "position": "MF",
+      "caps": 58,
+      "goals": 6,
+      "club": "Panathinaikos F.C. (GRE)"
+    },
+    {
+      "number": 8,
+      "name": "Sandi Lovrić",
+      "position": "MF",
+      "caps": 34,
+      "goals": 4,
+      "club": "Udinese Calcio (ITA)"
+    },
+    {
+      "number": 10,
+      "name": "Timi Max Elšnik",
+      "position": "MF",
+      "caps": 14,
+      "goals": 1,
+      "club": "NK Olimpija Ljubljana (SVN)"
+    },
+    {
+      "number": 14,
+      "name": "Jasmin Kurtić",
+      "position": "MF",
+      "caps": 91,
+      "goals": 2,
+      "club": "FC Südtirol (ITA)"
+    },
+    {
+      "number": 15,
+      "name": "Tomi Horvat",
+      "position": "MF",
+      "caps": 6,
+      "goals": 0,
+      "club": "SK Sturm Graz (AUT)"
+    },
+    {
+      "number": 22,
+      "name": "Adam Gnezda Čerin",
+      "position": "MF",
+      "caps": 30,
+      "goals": 4,
+      "club": "Panathinaikos F.C. (GRE)"
+    },
+    {
+      "number": 24,
+      "name": "Nino Žugelj",
+      "position": "MF",
+      "caps": 0,
+      "goals": 0,
+      "club": "FK Bodø/Glimt (NOR)"
+    },
+    {
+      "number": 25,
+      "name": "Adrian Zeljković",
+      "position": "MF",
+      "caps": 1,
+      "goals": 0,
+      "club": "FC Spartak Trnava (SVK)"
+    },
+    {
+      "number": 9,
+      "name": "Andraž Šporar",
+      "position": "FW",
+      "caps": 52,
+      "goals": 11,
+      "club": "Panathinaikos F.C. (GRE)"
+    },
+    {
+      "number": 11,
+      "name": "Benjamin Šeško",
+      "position": "FW",
+      "caps": 28,
+      "goals": 11,
+      "club": "RB Leipzig (GER)"
+    },
+    {
+      "number": 17,
+      "name": "Jan Mlakar",
+      "position": "FW",
+      "caps": 16,
+      "goals": 3,
+      "club": "Pisa SC (ITA)"
+    },
+    {
+      "number": 18,
+      "name": "Žan Vipotnik",
+      "position": "FW",
+      "caps": 9,
+      "goals": 2,
+      "club": "FC Girondins de Bordeaux (FRA)"
+    },
+    {
+      "number": 19,
+      "name": "Žan Celar",
+      "position": "FW",
+      "caps": 9,
+      "goals": 0,
+      "club": "FC Lugano (SUI)"
+    },
+    {
+      "number": 26,
+      "name": "Josip Iličić",
+      "position": "FW",
+      "caps": 80,
+      "goals": 17,
+      "club": "NK Maribor (SVN)"
+    }
+  ],
+  "spain": [
+    {
+      "number": 1,
+      "name": "David Raya",
+      "position": "GK",
+      "caps": 5,
+      "goals": 0,
+      "club": "Arsenal F.C. (ENG)"
+    },
+    {
+      "number": 13,
+      "name": "Álex Remiro",
+      "position": "GK",
+      "caps": 1,
+      "goals": 0,
+      "club": "Real Sociedad (ESP)"
+    },
+    {
+      "number": 23,
+      "name": "Unai Simón",
+      "position": "GK",
+      "caps": 39,
+      "goals": 0,
+      "club": "Athletic Bilbao (ESP)"
+    },
+    {
+      "number": 2,
+      "name": "Dani Carvajal",
+      "position": "DF",
+      "caps": 43,
+      "goals": 0,
+      "club": "Real Madrid CF (ESP)"
+    },
+    {
+      "number": 3,
+      "name": "Robin Le Normand",
+      "position": "DF",
+      "caps": 10,
+      "goals": 1,
+      "club": "Real Sociedad (ESP)"
+    },
+    {
+      "number": 4,
+      "name": "Nacho",
+      "position": "DF",
+      "caps": 24,
+      "goals": 1,
+      "club": "Real Madrid CF (ESP)"
+    },
+    {
+      "number": 5,
+      "name": "Daniel Vivian",
+      "position": "DF",
+      "caps": 2,
+      "goals": 0,
+      "club": "Athletic Bilbao (ESP)"
+    },
+    {
+      "number": 12,
+      "name": "Álex Grimaldo",
+      "position": "DF",
+      "caps": 3,
+      "goals": 0,
+      "club": "Bayer 04 Leverkusen (GER)"
+    },
+    {
+      "number": 14,
+      "name": "Aymeric Laporte",
+      "position": "DF",
+      "caps": 28,
+      "goals": 1,
+      "club": "Al Nassr FC (KSA)"
+    },
+    {
+      "number": 22,
+      "name": "Jesús Navas",
+      "position": "DF",
+      "caps": 52,
+      "goals": 5,
+      "club": "Sevilla FC (ESP)"
+    },
+    {
+      "number": 24,
+      "name": "Marc Cucurella",
+      "position": "DF",
+      "caps": 3,
+      "goals": 0,
+      "club": "Chelsea F.C. (ENG)"
+    },
+    {
+      "number": 6,
+      "name": "Mikel Merino",
+      "position": "MF",
+      "caps": 20,
+      "goals": 1,
+      "club": "Real Sociedad (ESP)"
+    },
+    {
+      "number": 8,
+      "name": "Fabián Ruiz",
+      "position": "MF",
+      "caps": 22,
+      "goals": 1,
+      "club": "Paris Saint-Germain F.C. (FRA)"
+    },
+    {
+      "number": 15,
+      "name": "Álex Baena",
+      "position": "MF",
+      "caps": 3,
+      "goals": 1,
+      "club": "Villarreal CF (ESP)"
+    },
+    {
+      "number": 16,
+      "name": "Rodri",
+      "position": "MF",
+      "caps": 49,
+      "goals": 3,
+      "club": "Manchester City F.C. (ENG)"
+    },
+    {
+      "number": 18,
+      "name": "Martín Zubimendi",
+      "position": "MF",
+      "caps": 6,
+      "goals": 0,
+      "club": "Real Sociedad (ESP)"
+    },
+    {
+      "number": 20,
+      "name": "Pedri",
+      "position": "MF",
+      "caps": 19,
+      "goals": 0,
+      "club": "FC Barcelona (ESP)"
+    },
+    {
+      "number": 25,
+      "name": "Fermín López",
+      "position": "MF",
+      "caps": 1,
+      "goals": 0,
+      "club": "FC Barcelona (ESP)"
+    },
+    {
+      "number": 7,
+      "name": "Álvaro Morata",
+      "position": "FW",
+      "caps": 72,
+      "goals": 34,
+      "club": "Atlético Madrid (ESP)"
+    },
+    {
+      "number": 9,
+      "name": "Joselu",
+      "position": "FW",
+      "caps": 10,
+      "goals": 5,
+      "club": "Real Madrid CF (ESP)"
+    },
+    {
+      "number": 10,
+      "name": "Dani Olmo",
+      "position": "FW",
+      "caps": 33,
+      "goals": 8,
+      "club": "RB Leipzig (GER)"
+    },
+    {
+      "number": 11,
+      "name": "Ferran Torres",
+      "position": "FW",
+      "caps": 41,
+      "goals": 19,
+      "club": "FC Barcelona (ESP)"
+    },
+    {
+      "number": 17,
+      "name": "Nico Williams",
+      "position": "FW",
+      "caps": 13,
+      "goals": 2,
+      "club": "Athletic Bilbao (ESP)"
+    },
+    {
+      "number": 19,
+      "name": "Lamine Yamal",
+      "position": "FW",
+      "caps": 6,
+      "goals": 2,
+      "club": "FC Barcelona (ESP)"
+    },
+    {
+      "number": 21,
+      "name": "Mikel Oyarzabal",
+      "position": "FW",
+      "caps": 29,
+      "goals": 10,
+      "club": "Real Sociedad (ESP)"
+    },
+    {
+      "number": 26,
+      "name": "Ayoze Pérez",
+      "position": "FW",
+      "caps": 1,
+      "goals": 1,
+      "club": "Real Betis (ESP)"
+    }
+  ],
+  "switzerland": [
+    {
+      "number": 1,
+      "name": "Yann Sommer",
+      "position": "GK",
+      "caps": 88,
+      "goals": 0,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 12,
+      "name": "Yvon Mvogo",
+      "position": "GK",
+      "caps": 9,
+      "goals": 0,
+      "club": "FC Lorient (FRA)"
+    },
+    {
+      "number": 21,
+      "name": "Gregor Kobel",
+      "position": "GK",
+      "caps": 5,
+      "goals": 0,
+      "club": "Borussia Dortmund (GER)"
+    },
+    {
+      "number": 2,
+      "name": "Leonidas Stergiou",
+      "position": "DF",
+      "caps": 2,
+      "goals": 0,
+      "club": "VfB Stuttgart (GER)"
+    },
+    {
+      "number": 3,
+      "name": "Silvan Widmer",
+      "position": "DF",
+      "caps": 42,
+      "goals": 3,
+      "club": "1. FSV Mainz 05 (GER)"
+    },
+    {
+      "number": 4,
+      "name": "Nico Elvedi",
+      "position": "DF",
+      "caps": 52,
+      "goals": 2,
+      "club": "Borussia Mönchengladbach (GER)"
+    },
+    {
+      "number": 5,
+      "name": "Manuel Akanji",
+      "position": "DF",
+      "caps": 59,
+      "goals": 3,
+      "club": "Manchester City F.C. (ENG)"
+    },
+    {
+      "number": 13,
+      "name": "Ricardo Rodriguez",
+      "position": "DF",
+      "caps": 114,
+      "goals": 9,
+      "club": "Torino FC (ITA)"
+    },
+    {
+      "number": 15,
+      "name": "Cédric Zesiger",
+      "position": "DF",
+      "caps": 3,
+      "goals": 0,
+      "club": "VfL Wolfsburg (GER)"
+    },
+    {
+      "number": 22,
+      "name": "Fabian Schär",
+      "position": "DF",
+      "caps": 81,
+      "goals": 8,
+      "club": "Newcastle United F.C. (ENG)"
+    },
+    {
+      "number": 6,
+      "name": "Denis Zakaria",
+      "position": "MF",
+      "caps": 54,
+      "goals": 3,
+      "club": "AS Monaco FC (FRA)"
+    },
+    {
+      "number": 8,
+      "name": "Remo Freuler",
+      "position": "MF",
+      "caps": 66,
+      "goals": 8,
+      "club": "Bologna FC 1909 (ITA)"
+    },
+    {
+      "number": 10,
+      "name": "Granit Xhaka",
+      "position": "MF",
+      "caps": 124,
+      "goals": 14,
+      "club": "Bayer 04 Leverkusen (GER)"
+    },
+    {
+      "number": 16,
+      "name": "Vincent Sierro",
+      "position": "MF",
+      "caps": 2,
+      "goals": 0,
+      "club": "Toulouse FC (FRA)"
+    },
+    {
+      "number": 20,
+      "name": "Michel Aebischer",
+      "position": "MF",
+      "caps": 19,
+      "goals": 0,
+      "club": "Bologna FC 1909 (ITA)"
+    },
+    {
+      "number": 23,
+      "name": "Xherdan Shaqiri",
+      "position": "MF",
+      "caps": 122,
+      "goals": 31,
+      "club": "Chicago Fire FC (USA)"
+    },
+    {
+      "number": 24,
+      "name": "Ardon Jashari",
+      "position": "MF",
+      "caps": 2,
+      "goals": 0,
+      "club": "FC Luzern (SUI)"
+    },
+    {
+      "number": 26,
+      "name": "Fabian Rieder",
+      "position": "MF",
+      "caps": 5,
+      "goals": 0,
+      "club": "Stade Rennais F.C. (FRA)"
+    },
+    {
+      "number": 7,
+      "name": "Breel Embolo",
+      "position": "FW",
+      "caps": 63,
+      "goals": 13,
+      "club": "AS Monaco FC (FRA)"
+    },
+    {
+      "number": 9,
+      "name": "Noah Okafor",
+      "position": "FW",
+      "caps": 21,
+      "goals": 2,
+      "club": "AC Milan (ITA)"
+    },
+    {
+      "number": 11,
+      "name": "Renato Steffen",
+      "position": "FW",
+      "caps": 39,
+      "goals": 4,
+      "club": "FC Lugano (SUI)"
+    },
+    {
+      "number": 14,
+      "name": "Steven Zuber",
+      "position": "FW",
+      "caps": 53,
+      "goals": 11,
+      "club": "AEK Athens F.C. (GRE)"
+    },
+    {
+      "number": 17,
+      "name": "Ruben Vargas",
+      "position": "FW",
+      "caps": 42,
+      "goals": 7,
+      "club": "FC Augsburg (GER)"
+    },
+    {
+      "number": 18,
+      "name": "Kwadwo Duah",
+      "position": "FW",
+      "caps": 1,
+      "goals": 0,
+      "club": "PFC Ludogorets Razgrad (BUL)"
+    },
+    {
+      "number": 19,
+      "name": "Dan Ndoye",
+      "position": "FW",
+      "caps": 10,
+      "goals": 0,
+      "club": "Bologna FC 1909 (ITA)"
+    },
+    {
+      "number": 25,
+      "name": "Zeki Amdouni",
+      "position": "FW",
+      "caps": 14,
+      "goals": 7,
+      "club": "Burnley F.C. (ENG)"
+    }
+  ],
+  "turkey": [
+    {
+      "number": 1,
+      "name": "Mert Günok",
+      "position": "GK",
+      "caps": 28,
+      "goals": 0,
+      "club": "Beşiktaş J.K. (TUR)"
+    },
+    {
+      "number": 12,
+      "name": "Altay Bayındır",
+      "position": "GK",
+      "caps": 9,
+      "goals": 0,
+      "club": "Manchester United F.C. (ENG)"
+    },
+    {
+      "number": 23,
+      "name": "Uğurcan Çakır",
+      "position": "GK",
+      "caps": 27,
+      "goals": 0,
+      "club": "Trabzonspor (TUR)"
+    },
+    {
+      "number": 2,
+      "name": "Zeki Çelik",
+      "position": "DF",
+      "caps": 45,
+      "goals": 2,
+      "club": "AS Roma (ITA)"
+    },
+    {
+      "number": 3,
+      "name": "Merih Demiral",
+      "position": "DF",
+      "caps": 43,
+      "goals": 2,
+      "club": "Al-Ahli Saudi FC (KSA)"
+    },
+    {
+      "number": 4,
+      "name": "Samet Akaydin",
+      "position": "DF",
+      "caps": 5,
+      "goals": 0,
+      "club": "Panathinaikos F.C. (GRE)"
+    },
+    {
+      "number": 13,
+      "name": "Ahmetcan Kaplan",
+      "position": "DF",
+      "caps": 0,
+      "goals": 0,
+      "club": "AFC Ajax (NED)"
+    },
+    {
+      "number": 14,
+      "name": "Abdülkerim Bardakcı",
+      "position": "DF",
+      "caps": 7,
+      "goals": 1,
+      "club": "Galatasaray S.K. (TUR)"
+    },
+    {
+      "number": 18,
+      "name": "Mert Müldür",
+      "position": "DF",
+      "caps": 23,
+      "goals": 1,
+      "club": "Fenerbahçe S.K. (TUR)"
+    },
+    {
+      "number": 20,
+      "name": "Ferdi Kadıoğlu",
+      "position": "DF",
+      "caps": 15,
+      "goals": 1,
+      "club": "Fenerbahçe S.K. (TUR)"
+    },
+    {
+      "number": 22,
+      "name": "Kaan Ayhan",
+      "position": "DF",
+      "caps": 57,
+      "goals": 5,
+      "club": "Galatasaray S.K. (TUR)"
+    },
+    {
+      "number": 5,
+      "name": "Okay Yokuşlu",
+      "position": "MF",
+      "caps": 39,
+      "goals": 1,
+      "club": "West Bromwich Albion F.C. (ENG)"
+    },
+    {
+      "number": 6,
+      "name": "Orkun Kökçü",
+      "position": "MF",
+      "caps": 27,
+      "goals": 2,
+      "club": "S.L. Benfica (POR)"
+    },
+    {
+      "number": 8,
+      "name": "Arda Güler",
+      "position": "MF",
+      "caps": 6,
+      "goals": 1,
+      "club": "Real Madrid CF (ESP)"
+    },
+    {
+      "number": 10,
+      "name": "Hakan Çalhanoğlu",
+      "position": "MF",
+      "caps": 85,
+      "goals": 18,
+      "club": "Inter Milan (ITA)"
+    },
+    {
+      "number": 15,
+      "name": "Salih Özcan",
+      "position": "MF",
+      "caps": 17,
+      "goals": 0,
+      "club": "Borussia Dortmund (GER)"
+    },
+    {
+      "number": 16,
+      "name": "İsmail Yüksek",
+      "position": "MF",
+      "caps": 14,
+      "goals": 1,
+      "club": "Fenerbahçe S.K. (TUR)"
+    },
+    {
+      "number": 7,
+      "name": "Kerem Aktürkoğlu",
+      "position": "FW",
+      "caps": 28,
+      "goals": 5,
+      "club": "Galatasaray S.K. (TUR)"
+    },
+    {
+      "number": 9,
+      "name": "Cenk Tosun",
+      "position": "FW",
+      "caps": 50,
+      "goals": 20,
+      "club": "Beşiktaş J.K. (TUR)"
+    },
+    {
+      "number": 11,
+      "name": "Yusuf Yazıcı",
+      "position": "FW",
+      "caps": 43,
+      "goals": 3,
+      "club": "Lille OSC (FRA)"
+    },
+    {
+      "number": 17,
+      "name": "İrfan Kahveci",
+      "position": "FW",
+      "caps": 31,
+      "goals": 2,
+      "club": "Fenerbahçe S.K. (TUR)"
+    },
+    {
+      "number": 19,
+      "name": "Kenan Yıldız",
+      "position": "FW",
+      "caps": 6,
+      "goals": 1,
+      "club": "Juventus FC (ITA)"
+    },
+    {
+      "number": 21,
+      "name": "Barış Alper Yılmaz",
+      "position": "FW",
+      "caps": 14,
+      "goals": 1,
+      "club": "Galatasaray S.K. (TUR)"
+    },
+    {
+      "number": 24,
+      "name": "Semih Kılıçsoy",
+      "position": "FW",
+      "caps": 1,
+      "goals": 0,
+      "club": "Beşiktaş J.K. (TUR)"
+    },
+    {
+      "number": 25,
+      "name": "Yunus Akgün",
+      "position": "FW",
+      "caps": 9,
+      "goals": 2,
+      "club": "Leicester City F.C. (ENG)"
+    },
+    {
+      "number": 26,
+      "name": "Bertuğ Yıldırım",
+      "position": "FW",
+      "caps": 3,
+      "goals": 2,
+      "club": "Stade Rennais F.C. (FRA)"
+    }
+  ],
+  "ukraine": [
+    {
+      "number": 1,
+      "name": "Heorhiy Bushchan",
+      "position": "GK",
+      "caps": 17,
+      "goals": 0,
+      "club": "FC Dynamo Kyiv (UKR)"
+    },
+    {
+      "number": 12,
+      "name": "Anatoliy Trubin",
+      "position": "GK",
+      "caps": 11,
+      "goals": 0,
+      "club": "S.L. Benfica (POR)"
+    },
+    {
+      "number": 23,
+      "name": "Andriy Lunin",
+      "position": "GK",
+      "caps": 11,
+      "goals": 0,
+      "club": "Real Madrid CF (ESP)"
+    },
+    {
+      "number": 2,
+      "name": "Yukhym Konoplya",
+      "position": "DF",
+      "caps": 13,
+      "goals": 1,
+      "club": "FC Shakhtar Donetsk (UKR)"
+    },
+    {
+      "number": 3,
+      "name": "Oleksandr Svatok",
+      "position": "DF",
+      "caps": 6,
+      "goals": 0,
+      "club": "SC Dnipro-1 (UKR)"
+    },
+    {
+      "number": 4,
+      "name": "Maksym Taloverov",
+      "position": "DF",
+      "caps": 2,
+      "goals": 0,
+      "club": "LASK (AUT)"
+    },
+    {
+      "number": 13,
+      "name": "Illya Zabarnyi",
+      "position": "DF",
+      "caps": 35,
+      "goals": 1,
+      "club": "AFC Bournemouth (ENG)"
+    },
+    {
+      "number": 16,
+      "name": "Vitaliy Mykolenko",
+      "position": "DF",
+      "caps": 39,
+      "goals": 1,
+      "club": "Everton F.C. (ENG)"
+    },
+    {
+      "number": 21,
+      "name": "Valeriy Bondar",
+      "position": "DF",
+      "caps": 3,
+      "goals": 0,
+      "club": "FC Shakhtar Donetsk (UKR)"
+    },
+    {
+      "number": 22,
+      "name": "Mykola Matviyenko",
+      "position": "DF",
+      "caps": 64,
+      "goals": 0,
+      "club": "FC Shakhtar Donetsk (UKR)"
+    },
+    {
+      "number": 24,
+      "name": "Oleksandr Tymchyk",
+      "position": "DF",
+      "caps": 16,
+      "goals": 1,
+      "club": "FC Dynamo Kyiv (UKR)"
+    },
+    {
+      "number": 26,
+      "name": "Bohdan Mykhaylichenko",
+      "position": "DF",
+      "caps": 7,
+      "goals": 0,
+      "club": "FC Polissya Zhytomyr (UKR)"
+    },
+    {
+      "number": 5,
+      "name": "Serhiy Sydorchuk",
+      "position": "MF",
+      "caps": 60,
+      "goals": 3,
+      "club": "K.V.C. Westerlo (BEL)"
+    },
+    {
+      "number": 6,
+      "name": "Taras Stepanenko",
+      "position": "MF",
+      "caps": 82,
+      "goals": 4,
+      "club": "FC Shakhtar Donetsk (UKR)"
+    },
+    {
+      "number": 8,
+      "name": "Ruslan Malinovskyi",
+      "position": "MF",
+      "caps": 59,
+      "goals": 7,
+      "club": "Genoa CFC (ITA)"
+    },
+    {
+      "number": 10,
+      "name": "Mykhaylo Mudryk",
+      "position": "MF",
+      "caps": 19,
+      "goals": 2,
+      "club": "Chelsea F.C. (ENG)"
+    },
+    {
+      "number": 14,
+      "name": "Heorhiy Sudakov",
+      "position": "MF",
+      "caps": 15,
+      "goals": 1,
+      "club": "FC Shakhtar Donetsk (UKR)"
+    },
+    {
+      "number": 15,
+      "name": "Viktor Tsyhankov",
+      "position": "MF",
+      "caps": 52,
+      "goals": 12,
+      "club": "Girona FC (ESP)"
+    },
+    {
+      "number": 17,
+      "name": "Oleksandr Zinchenko",
+      "position": "MF",
+      "caps": 61,
+      "goals": 9,
+      "club": "Arsenal F.C. (ENG)"
+    },
+    {
+      "number": 18,
+      "name": "Volodymyr Brazhko",
+      "position": "MF",
+      "caps": 3,
+      "goals": 0,
+      "club": "FC Dynamo Kyiv (UKR)"
+    },
+    {
+      "number": 19,
+      "name": "Mykola Shaparenko",
+      "position": "MF",
+      "caps": 29,
+      "goals": 1,
+      "club": "FC Dynamo Kyiv (UKR)"
+    },
+    {
+      "number": 7,
+      "name": "Andriy Yarmolenko",
+      "position": "FW",
+      "caps": 117,
+      "goals": 46,
+      "club": "FC Dynamo Kyiv (UKR)"
+    },
+    {
+      "number": 9,
+      "name": "Roman Yaremchuk",
+      "position": "FW",
+      "caps": 49,
+      "goals": 14,
+      "club": "Valencia CF (ESP)"
+    },
+    {
+      "number": 11,
+      "name": "Artem Dovbyk",
+      "position": "FW",
+      "caps": 26,
+      "goals": 8,
+      "club": "Girona FC (ESP)"
+    },
+    {
+      "number": 20,
+      "name": "Oleksandr Zubkov",
+      "position": "FW",
+      "caps": 31,
+      "goals": 2,
+      "club": "FC Shakhtar Donetsk (UKR)"
+    },
+    {
+      "number": 25,
+      "name": "Vladyslav Vanat",
+      "position": "FW",
+      "caps": 5,
+      "goals": 0,
+      "club": "FC Dynamo Kyiv (UKR)"
+    }
+  ]
+}
